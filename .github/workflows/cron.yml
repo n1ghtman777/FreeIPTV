@@ -24,7 +24,7 @@ jobs:
     # 3. Устанавливаем библиотеку requests
     - name: Install dependencies
       run: |
-        python -m pip upgrade pip
+        python -m pip install --upgrade pip
         pip install requests
 
     # 4. Запускаем наш скрипт обновления
