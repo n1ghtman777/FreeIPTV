@@ -29,7 +29,7 @@ jobs:
 
     # 4. Запускаем наш скрипт обновления
     - name: Run script
-      run: python update_playlist.py
+      run: python auto_token_gen.py
 
     # 5. Сохраняем изменения и отправляем обратно в репозиторий
     - name: Commit and Push changes
