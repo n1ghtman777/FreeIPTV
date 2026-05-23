@@ -1,0 +1,47 @@
+name: Update IPTV Playlist Token
+
+on:
+  schedule:
+    # Запуск каждые 10 минут
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # Позволяет запускать скрипт вручную кнопкой
+
+jobs:
+  run-updater:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Скачиваем файлы репозитория в контейнер
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    # 2. Устанавливаем Python
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    # 3. Устанавливаем библиотеку requests
+    - name: Install dependencies
+      run: |
+        python -m pip upgrade pip
+        pip install requests
+
+    # 4. Запускаем наш скрипт обновления
+    - name: Run script
+      run: python update_playlist.py
+
+    # 5. Сохраняем изменения и отправляем обратно в репозиторий
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@://github.com"
+        git add NightTV.m3u
+        
+        # Проверяем, есть ли вообще изменения, чтобы не плодить пустые коммиты
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Автоматическое обновление токена Peers.tv [skip ci]"
+          git push
+        fi
