@@ -2,7 +2,7 @@ import requests
 import re
 
 # путь к плейлисту
-M3U_FILE = "playlist.m3u"
+M3U_FILE = "NightTV.m3u"
 
 
 def get_token():
