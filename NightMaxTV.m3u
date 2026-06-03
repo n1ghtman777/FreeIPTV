@@ -1,8 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz, http://178.63.47.178/epg.xml,http://epg.one/epg.xml.gz,http://uztv.su/uploads/channelsarch/channels.xml"
-#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Super Mario 2: Galaktika 🔥" tvg-logo="https://uzbeklar.biz/uploads/posts/2026-04/1777183437_mario2.jpg" group-title="Премьера",Super Mario 2: Galaktika 2026 🔥
-https://l.uzbeklar.biz/film/mario2.mp4
-#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="Российские",Info
-https://m3u.usite.pro/1/demo.mp4
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz, http://178.63.47.178/epg.xml,http://epg.one/epg.xml.gz"
 #EXTINF:-1 group-title="Российские",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="Российские",Россия 1
