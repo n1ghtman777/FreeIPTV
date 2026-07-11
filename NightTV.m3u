@@ -1,7 +1,7 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz, http://178.63.47.178/epg.xml,http://epg.one/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz, http://epg.one/epg.xml.gz"
 #Прямые трансляции
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Основные" ,Первый канал HD
-http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODM4MTkyMDUsImlhdCI6MTc4MzczMjgwNSwiY2lkIjo2LCJ1aWQiOjEwNjQ5NDQxMzQsInJlZyI6ZmFsc2UsImlwIjo4MTkzNDQ3NTUsImFkdWx0IjpmYWxzZX0.6tCzxtLDGwmhHdAMg-LgTA2Ilp5H7_nAdsgM4HXFzYk&offset=14400
+http://api.peers.tv/timeshift/1kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODM4MTkyMDUsImlhdCI6MTc4MzczMjgwNSwiY2lkIjo2LCJ1aWQiOjEwNjQ5NDQxMzQsInJlZyI6ZmFsc2UsImlwIjo4MTkzNDQ3NTUsImFkdWx0IjpmYWxzZX0.6tCzxtLDGwmhHdAMg-LgTA2Ilp5H7_nAdsgM4HXFzYk&offset=14400
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Основные" ,Россия HD
 http://api.peers.tv/timeshift/russiahd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODM4MTkyMDUsImlhdCI6MTc4MzczMjgwNSwiY2lkIjo2LCJ1aWQiOjEwNjQ5NDQxMzQsInJlZyI6ZmFsc2UsImlwIjo4MTkzNDQ3NTUsImFkdWx0IjpmYWxzZX0.6tCzxtLDGwmhHdAMg-LgTA2Ilp5H7_nAdsgM4HXFzYk&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Основные" ,Россия 24
@@ -24,9 +24,9 @@ http://api.peers.tv/timeshift/tvc/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR
 
 #Плюсовые
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Плюсовые" ,Первый канал HD +1
-http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODM4MTkyMDUsImlhdCI6MTc4MzczMjgwNSwiY2lkIjo2LCJ1aWQiOjEwNjQ5NDQxMzQsInJlZyI6ZmFsc2UsImlwIjo4MTkzNDQ3NTUsImFkdWx0IjpmYWxzZX0.6tCzxtLDGwmhHdAMg-LgTA2Ilp5H7_nAdsgM4HXFzYk&offset=10800
+http://api.peers.tv/timeshift/1kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODM4MTkyMDUsImlhdCI6MTc4MzczMjgwNSwiY2lkIjo2LCJ1aWQiOjEwNjQ5NDQxMzQsInJlZyI6ZmFsc2UsImlwIjo4MTkzNDQ3NTUsImFkdWx0IjpmYWxzZX0.6tCzxtLDGwmhHdAMg-LgTA2Ilp5H7_nAdsgM4HXFzYk&offset=10800
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Плюсовые" ,Первый канал HD +4
-http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODM4MTkyMDUsImlhdCI6MTc4MzczMjgwNSwiY2lkIjo2LCJ1aWQiOjEwNjQ5NDQxMzQsInJlZyI6ZmFsc2UsImlwIjo4MTkzNDQ3NTUsImFkdWx0IjpmYWxzZX0.6tCzxtLDGwmhHdAMg-LgTA2Ilp5H7_nAdsgM4HXFzYk&offset=10
+http://api.peers.tv/timeshift/1kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODM4MTkyMDUsImlhdCI6MTc4MzczMjgwNSwiY2lkIjo2LCJ1aWQiOjEwNjQ5NDQxMzQsInJlZyI6ZmFsc2UsImlwIjo4MTkzNDQ3NTUsImFkdWx0IjpmYWxzZX0.6tCzxtLDGwmhHdAMg-LgTA2Ilp5H7_nAdsgM4HXFzYk&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Плюсовые" ,Россия +1
 http://api.peers.tv/timeshift/rossija/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODM4MTkyMDUsImlhdCI6MTc4MzczMjgwNSwiY2lkIjo2LCJ1aWQiOjEwNjQ5NDQxMzQsInJlZyI6ZmFsc2UsImlwIjo4MTkzNDQ3NTUsImFkdWx0IjpmYWxzZX0.6tCzxtLDGwmhHdAMg-LgTA2Ilp5H7_nAdsgM4HXFzYk&offset=10800
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Плюсовые" ,Россия +4
