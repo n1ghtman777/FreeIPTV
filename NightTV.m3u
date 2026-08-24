@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz, http://epg.one/epg.xml.gz"
 #Прямые трансляции
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Основные" ,Первый канал HD
-http://api.peers.tv/timeshift/1kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODc2MTc4NjQsImlhdCI6MTc4NzUzMTQ2NCwiY2lkIjo2LCJ1aWQiOjEwODAxMzEwODMsInJlZyI6ZmFsc2UsImlwIjo3NzI4MzI1MSwiYWR1bHQiOmZhbHNlfQ.PZnrraCB6tAVYaKEm15ePu1gS64DNSHYIqYUsCqvRXE&offset=14400
+http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODc2MTc4NjQsImlhdCI6MTc4NzUzMTQ2NCwiY2lkIjo2LCJ1aWQiOjEwODAxMzEwODMsInJlZyI6ZmFsc2UsImlwIjo3NzI4MzI1MSwiYWR1bHQiOmZhbHNlfQ.PZnrraCB6tAVYaKEm15ePu1gS64DNSHYIqYUsCqvRXE&offset=14400
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Основные" ,Россия HD
 http://api.peers.tv/timeshift/russiahd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODc2MTc4NjQsImlhdCI6MTc4NzUzMTQ2NCwiY2lkIjo2LCJ1aWQiOjEwODAxMzEwODMsInJlZyI6ZmFsc2UsImlwIjo3NzI4MzI1MSwiYWR1bHQiOmZhbHNlfQ.PZnrraCB6tAVYaKEm15ePu1gS64DNSHYIqYUsCqvRXE&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Основные" ,Россия 24
