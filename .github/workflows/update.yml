@@ -1,0 +1,52 @@
+name: Update IPTV playlists
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # каждые 6 часов (UTC)
+  workflow_dispatch:         # ручной запуск из вкладки Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-playlists
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect Russian channels
+        run: |
+          mkdir -p playlists
+          python iptv_collector.py --output playlists/ru_all.m3u
+
+      - name: Check streams
+        run: |
+          python check_playlist.py playlists/ru_all.m3u \
+            --output playlists/ru_alive.m3u \
+            --dead playlists/dead.txt \
+            --workers 50 --timeout 8 --retries 1
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlists
+          if git diff --cached --quiet; then
+            echo "Без изменений"
+          else
+            git commit -m "Update playlists $(date -u +%F)"
+            git push
+          fi
