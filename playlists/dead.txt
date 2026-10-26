@@ -25,7 +25,6 @@
 Кино	Detskoe kino [Not 24/7]	https://autopilot.catcast.tv/content/38720/index.m3u8
 Кино	Dom kino International (576p)	https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
 Кино	Dom kino Premium (1080p)	http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
-Кино	Dorama (576p)	https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
 Кино	Evrokino (576p)	https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
 Кино	Feniks plus Kino (576p)	http://31.148.48.15/Feniks_plus_kino/index.m3u8
 Кино	Hit HD (1080p)	http://hls127.freeott.top:8080/XitHD/video.m3u8
@@ -80,6 +79,7 @@
 Образование	Doctor (1080p)	http://31.148.48.15/Doktor/index.m3u8
 Образование	English Class (1080p)	http://31.148.48.15/English_club_TV_HD/index.m3u8
 Образование	Kto est kto (576p)	http://31.148.48.15/Kto_est_kto/index.m3u8
+Общие	6 TV Gorlovka (720p) [Geo-blocked]	http://91.214.48.158:4022/udp/224.2.2.4:10000
 Общие	Afontovo	https://stream.afontovo.ru/hd.m3u8
 Общие	Arktika 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 Общие	Bashkortostan 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
@@ -131,7 +131,6 @@
 Семейные	Velvet. European Movies (1080p)	https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
 Семейные	Velvet. Svaty (1080p)	https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
 Сериалы	A2 (576p)	http://31.148.48.15/A2/index.m3u8
-Сериалы	City Eden TeleNovella [Not 24/7]	https://cityeden.catcast.tv/content/46209/index.m3u8
 Сериалы	Saphire (1080p)	http://77.232.131.211/Sapfir/manifest.m3u8
 Сериалы	Velvet. Mentovskiye Serialy (1080p)	https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
 Спорт	Boks TV (720p)	http://31.148.48.15/Boks_TV/index.m3u8
