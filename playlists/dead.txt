@@ -57,6 +57,7 @@
 Культура	Russia-K +7 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 Культура	Teatr (576p)	http://hls127.freeott.top:8080/Teatr/video.m3u8
 Лайфстайл	NTV Style (576p)	http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
+Лайфстайл	Otkritiy mir. Zdorove (576p)	https://v4.proofix.ru/0mir/index.m3u8
 Лайфстайл	Zhivi! (1080p)	http://31.148.48.15/Zhivi/index.m3u8
 Музыка	15+ Music (1080p)	https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 Музыка	A1 (576p)	http://31.148.48.15/A1/index.m3u8
@@ -66,6 +67,7 @@
 Музыка	MCM Top (576p)	http://46.32.176.50/mcmtop/index.m3u8
 Музыка	Muz-TV (576p)	http://46.32.176.50/muztv/index.m3u8
 Музыка	o2tv (720p)	http://31.148.48.15/O2_HD/index.m3u8
+Музыка	VIVA Russia	https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 Мультфильмы	Detvora+ (1080p)	https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
 Мультфильмы	FAN (1080p)	http://31.148.48.15/Fan/index.m3u8
 Мультфильмы	Solnce (576p)	http://31.148.48.15/Solnce/index.m3u8
@@ -78,6 +80,7 @@
 Образование	Doctor (1080p)	http://31.148.48.15/Doktor/index.m3u8
 Образование	English Class (1080p)	http://31.148.48.15/English_club_TV_HD/index.m3u8
 Образование	Kto est kto (576p)	http://31.148.48.15/Kto_est_kto/index.m3u8
+Общие	6 TV Gorlovka (720p) [Geo-blocked]	http://91.214.48.158:4022/udp/224.2.2.4:10000
 Общие	Afontovo	https://stream.afontovo.ru/hd.m3u8
 Общие	Arktika 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 Общие	Bashkortostan 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
@@ -85,7 +88,6 @@
 Общие	Channel One (Russia) HD (720p)	https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 Общие	Gorodskoy telekanal (720p)	https://gtk.tv/hls/gtyar.m3u8
 Общие	Kavkaz 24 (576p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-Общие	Kongress TV (1080p)	https://live-3.otcnet.ru/congresstv/index.m3u8
 Общие	Kuban 24 (480p) [Geo-blocked]	http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 Общие	LenTV24	https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 Общие	Mir +2 (540p) [Not 24/7]	http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
@@ -120,6 +122,7 @@
 Путешествия	RTG TV (720p)	http://31.148.48.15/RTG_HD/index.m3u8
 Путешествия	Teleputeshestviya (576p)	http://31.148.48.15/Teleputeshestviya/index.m3u8
 Путешествия	Travel+Adventure (1080p)	http://31.148.48.15/Travel_Adventure_HD/index.m3u8
+Развлекательные	.red (576p)	http://5.188.159.128:8070/RED/index.m3u8
 Развлекательные	Friday! International Kazakhstan (576p)	https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
 Развлекательные	India (576p)	https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
 Развлекательные	Kluch (576p)	http://hls127.freeott.top:8080/Kluch/video.m3u8
