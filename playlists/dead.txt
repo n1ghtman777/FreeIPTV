@@ -78,7 +78,6 @@
 Образование	Doctor (1080p)	http://31.148.48.15/Doktor/index.m3u8
 Образование	English Class (1080p)	http://31.148.48.15/English_club_TV_HD/index.m3u8
 Образование	Kto est kto (576p)	http://31.148.48.15/Kto_est_kto/index.m3u8
-Общие	6 TV Gorlovka (720p) [Geo-blocked]	http://91.214.48.158:4022/udp/224.2.2.4:10000
 Общие	Afontovo	https://stream.afontovo.ru/hd.m3u8
 Общие	Arktika 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 Общие	Bashkortostan 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
@@ -86,6 +85,7 @@
 Общие	Channel One (Russia) HD (720p)	https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 Общие	Gorodskoy telekanal (720p)	https://gtk.tv/hls/gtyar.m3u8
 Общие	Kavkaz 24 (576p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+Общие	Kongress TV (1080p)	https://live-3.otcnet.ru/congresstv/index.m3u8
 Общие	Kuban 24 (480p) [Geo-blocked]	http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 Общие	LenTV24	https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 Общие	Mir +2 (540p) [Not 24/7]	http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
@@ -99,7 +99,6 @@
 Общие	NTV (Russia) +7 (576p)	https://cdn.ntv.ru/ntv7/playlist.m3u8
 Общие	NTV Vitrina (720p)	https://cdn.ntv.ru/vitrina/index.m3u8
 Общие	Perviy Krymskiy (720p)	https://live1.1tvcrimea.ru/1tvcrimea.m3u8
-Общие	Radio Mir (720p)	https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 Общие	REN TV (576p)	http://31.148.48.15/REN-TV/index.m3u8
 Общие	Russia-1 (1080p)	http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
 Общие	Russia-1 +4 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
