@@ -3,7 +3,6 @@
 Детские	Ani (576p)	http://46.32.176.50/anitv/index.m3u8
 Детские	Carousel (1080p)	http://31.148.48.15/Karusel_HD/index.m3u8
 Детские	Mult (1080p)	http://31.148.48.15/Mult_HD/index.m3u8
-Детские	Mult i muzyka (576p)	http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
 Детские	Mult International (576p)	https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
 Детские	Radost Moya (576p)	http://31.148.48.15/Radost_moya/index.m3u8
 Детские	RU.TV Kids (720p)	https://rutvkids.ru/live/efir/index.m3u8
@@ -11,33 +10,28 @@
 Детские	SuperGeroi (1080p)	http://31.148.48.15/Malish_TV/index.m3u8
 Детские	Unikum (576p)	http://31.148.48.15/Detskiy/index.m3u8
 Документальные	DocuBox Russia	http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8
-Документальные	Istoriya (576p)	http://hls127.freeott.top:8080/Istoriya/video.m3u8
+Документальные	Istoriya (576p)	https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
 Документальные	National Geographic (Russia) (1080p)	http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
-Документальные	National Geographic Wild (Russia) (1080p)	http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
+Документальные	National Geographic Wild (Russia) (576p)	https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
 Документальные	National Geographic Wild (Russia) HD	http://178.76.68.60:7442/50/mpegts
 Документальные	Nauka (Russia) (1080p)	http://31.148.48.15/Nauka_2.0/index.m3u8
 Документальные	TERRA (720p)	http://31.148.48.15/Terra_HD/index.m3u8
 Документальные	Top Secret (576p)	http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
 Документальные	viju Nature (576p)	https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
 Кино	Amedia Premium (720p)	http://31.148.48.15/Amedia_Premium_HD/index.m3u8
-Кино	Bolt (Russia) (576p)	http://hls127.freeott.top:8080/Bolt/video.m3u8
 Кино	City Eden KinoSemya [Not 24/7]	https://v2.catcast.tv/content/38128/index.m3u8
 Кино	Detskoe kino [Not 24/7]	https://autopilot.catcast.tv/content/38720/index.m3u8
 Кино	Dom kino International (576p)	https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
 Кино	Dom kino Premium (1080p)	http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 Кино	Evrokino (576p)	https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
 Кино	Feniks plus Kino (576p)	http://31.148.48.15/Feniks_plus_kino/index.m3u8
-Кино	Hit HD (1080p)	http://hls127.freeott.top:8080/XitHD/video.m3u8
 Кино	Hollywood (1080p)	http://31.148.48.15/MGM_HD/index.m3u8
 Кино	Kineko (1080p)	http://31.148.48.15/Kineko_HD/index.m3u8
 Кино	Kino 24 (720p)	http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 Кино	Kino TV (720p)	http://31.148.48.15/Kino_TV_HD/index.m3u8
-Кино	Kinopokaz HD (1080p)	http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 Кино	Kinopremyera HD (1080p)	https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 Кино	KinoSat (576p)	http://31.148.48.15/Kineko/index.m3u8
-Кино	Kinoseriya (1080p)	http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 Кино	Mosfilm Gold Collection (576p)	http://31.222.235.15/mosfilm/index.m3u8
-Кино	Nashe Lubimoe Kino (576p)	http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 Кино	Patriot (720p)	https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
 Кино	Russkiy Illusion (576p)	http://31.148.48.15/Russkiy_illusion/index.m3u8
 Кино	Russkiy roman (1080p)	http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
@@ -45,7 +39,6 @@
 Кино	START World (576p)	https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 Кино	Velvet. Scary (1080p)	https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
 Кино	viju TV1000 russkoe (576p)	https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
-Классика	Nostalgia (Russia) (576p)	http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 Классика	Velvet. Golden Collection (1080p)	https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
 Классика	Velvet. Sovetskoe Kino (1080p)	https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
 Комедия	alpha Cinema (1080p)	https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
@@ -56,13 +49,12 @@
 Культура	Russia-K +4 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 Культура	Russia-K +7 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 Культура	Teatr (576p)	http://hls127.freeott.top:8080/Teatr/video.m3u8
-Лайфстайл	NTV Style (576p)	http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
+Лайфстайл	NTV Style (576p)	https://cdn.ntv.ru/th_style/playlist.m3u8
 Лайфстайл	Zhivi! (1080p)	http://31.148.48.15/Zhivi/index.m3u8
 Музыка	15+ Music (1080p)	https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 Музыка	A1 (576p)	http://31.148.48.15/A1/index.m3u8
 Музыка	BRIDGE Deluxe (1080p)	http://31.148.48.15/Bridge_TV_HD/index.m3u8
 Музыка	Europa Plus TV (1080p)	http://31.148.48.15/Europa_Plus_HD/index.m3u8
-Музыка	First Music Channel Russia (1080p)	http://hls127.freeott.top:8080/1muz_HD/video.m3u8
 Музыка	MCM Top (576p)	http://46.32.176.50/mcmtop/index.m3u8
 Музыка	Muz-TV (576p)	http://46.32.176.50/muztv/index.m3u8
 Музыка	Muzyka 1 [Not 24/7]	https://kino-1.catcast.tv/content/37745/index.m3u8
@@ -80,7 +72,6 @@
 Образование	Doctor (1080p)	http://31.148.48.15/Doktor/index.m3u8
 Образование	English Class (1080p)	http://31.148.48.15/English_club_TV_HD/index.m3u8
 Образование	Kto est kto (576p)	http://31.148.48.15/Kto_est_kto/index.m3u8
-Общие	555 (720p)	http://trk555.tv:8888/live
 Общие	Afontovo	https://stream.afontovo.ru/hd.m3u8
 Общие	Arktika 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 Общие	Bashkortostan 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
@@ -88,7 +79,6 @@
 Общие	Channel One (Russia) HD (720p)	https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 Общие	Gorodskoy telekanal (720p)	https://gtk.tv/hls/gtyar.m3u8
 Общие	Kavkaz 24 (576p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-Общие	Kongress TV (1080p)	https://live-3.otcnet.ru/congresstv/index.m3u8
 Общие	Kuban 24 (480p) [Geo-blocked]	http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 Общие	LenTV24	https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 Общие	Mir +2 (540p) [Not 24/7]	http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
@@ -118,14 +108,12 @@
 Общие	Vostok 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 Общие	Zapad 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 Общие	Zvezda (1080p)	http://51.158.144.33:2021/zvezda/index.m3u8
-Природа	Dikij (576p)	http://hls127.freeott.top:8080/Dikiy/video.m3u8
 Природа	Moya Planeta (1080p)	http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 Путешествия	RTG TV (720p)	http://31.148.48.15/RTG_HD/index.m3u8
 Путешествия	Teleputeshestviya (576p)	http://31.148.48.15/Teleputeshestviya/index.m3u8
 Путешествия	Travel+Adventure (1080p)	http://31.148.48.15/Travel_Adventure_HD/index.m3u8
 Развлекательные	Friday! International Kazakhstan (576p)	https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
 Развлекательные	India (576p)	https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
-Развлекательные	Kluch (576p)	http://hls127.freeott.top:8080/Kluch/video.m3u8
 Развлекательные	Poehali! (1080p)	http://31.148.48.15/Poehali/index.m3u8
 Развлекательные	TNT (Russia) HD (1080p)	http://45.153.24.78/TNT/index.m3u8
 Религия	Vera 24	https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
@@ -151,8 +139,7 @@
 Без категории	Bober (576p)	https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
 Без категории	Lapki Live (576p)	https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
 Без категории	like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 1	http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-Без категории	NST (576p)	http://hls127.freeott.top:8080/HCTV/video.m3u8
-Без категории	NTV Law (576p)	http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
+Без категории	NTV Law (576p)	https://cdn.ntv.ru/th_pravo/playlist.m3u8
 Без категории	Ocean-TV (576p)	http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
 Без категории	Pro Lyubov (1080p)	http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 Без категории	RZD TV (1080p) [Geo-blocked]	http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
