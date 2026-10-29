@@ -78,6 +78,7 @@
 Музыка	Muzyka Kino [Not 24/7]	https://kino-1.catcast.tv/content/37739/index.m3u8
 Музыка	o2tv (720p)	http://31.148.48.15/O2_HD/index.m3u8
 Музыка	Radio Shanson (720p) [Not 24/7]	http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+Музыка	VIVA Russia	https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 Мультфильмы	Detvora+ (1080p)	https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
 Мультфильмы	FAN (1080p)	http://31.148.48.15/Fan/index.m3u8
 Мультфильмы	Solnce (576p)	http://31.148.48.15/Solnce/index.m3u8
@@ -100,7 +101,6 @@
 Общие	City Eden TV [Not 24/7]	https://cityeden.catcast.tv/content/34246/index.m3u8
 Общие	Gorodskoy telekanal (720p)	https://gtk.tv/hls/gtyar.m3u8
 Общие	Kavkaz 24 (576p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-Общие	Kongress TV (1080p)	https://live-3.otcnet.ru/congresstv/index.m3u8
 Общие	Kuban 24 (480p) [Geo-blocked]	http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 Общие	LenTV24	https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 Общие	Mir +2 (540p) [Not 24/7]	http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
