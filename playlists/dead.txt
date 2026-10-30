@@ -61,6 +61,7 @@
 Музыка	Muzyka Kino [Not 24/7]	https://kino-1.catcast.tv/content/37739/index.m3u8
 Музыка	o2tv (720p)	http://31.148.48.15/O2_HD/index.m3u8
 Музыка	Radio Shanson (720p) [Not 24/7]	http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+Музыка	VIVA Russia	https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 Мультфильмы	Detvora+ (1080p)	https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
 Мультфильмы	FAN (1080p)	http://31.148.48.15/Fan/index.m3u8
 Мультфильмы	Solnce (576p)	http://31.148.48.15/Solnce/index.m3u8
