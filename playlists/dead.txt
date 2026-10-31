@@ -27,6 +27,7 @@
 Кино	Feniks plus Kino (576p)	http://31.148.48.15/Feniks_plus_kino/index.m3u8
 Кино	Hollywood (1080p)	http://31.148.48.15/MGM_HD/index.m3u8
 Кино	Kineko (1080p)	http://31.148.48.15/Kineko_HD/index.m3u8
+Кино	Kino 1 (Russia) [Not 24/7]	http://kino-1.catcast.tv/content/38617/index.m3u8
 Кино	Kino 24 (720p)	http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 Кино	Kino TV (720p)	http://31.148.48.15/Kino_TV_HD/index.m3u8
 Кино	Kinopremyera HD (1080p)	https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
