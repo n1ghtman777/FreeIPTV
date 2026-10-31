@@ -27,7 +27,6 @@
 Кино	Feniks plus Kino (576p)	http://31.148.48.15/Feniks_plus_kino/index.m3u8
 Кино	Hollywood (1080p)	http://31.148.48.15/MGM_HD/index.m3u8
 Кино	Kineko (1080p)	http://31.148.48.15/Kineko_HD/index.m3u8
-Кино	Kino 1 (Russia) [Not 24/7]	http://kino-1.catcast.tv/content/38617/index.m3u8
 Кино	Kino 24 (720p)	http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 Кино	Kino TV (720p)	http://31.148.48.15/Kino_TV_HD/index.m3u8
 Кино	Kinopremyera HD (1080p)	https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
@@ -59,8 +58,6 @@
 Музыка	Europa Plus TV (1080p)	http://31.148.48.15/Europa_Plus_HD/index.m3u8
 Музыка	MCM Top (576p)	http://46.32.176.50/mcmtop/index.m3u8
 Музыка	Muz-TV (576p)	http://46.32.176.50/muztv/index.m3u8
-Музыка	Muzyka 1 [Not 24/7]	https://kino-1.catcast.tv/content/37745/index.m3u8
-Музыка	Muzyka Kino [Not 24/7]	https://kino-1.catcast.tv/content/37739/index.m3u8
 Музыка	o2tv (720p)	http://31.148.48.15/O2_HD/index.m3u8
 Музыка	Radio Shanson (720p) [Not 24/7]	http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 Мультфильмы	Detvora+ (1080p)	https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
@@ -83,7 +80,6 @@
 Общие	City Eden TV [Not 24/7]	https://cityeden.catcast.tv/content/34246/index.m3u8
 Общие	Gorodskoy telekanal (720p)	https://gtk.tv/hls/gtyar.m3u8
 Общие	Kavkaz 24 (576p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-Общие	Kongress TV (1080p)	https://live-3.otcnet.ru/congresstv/index.m3u8
 Общие	Kuban 24 (480p) [Geo-blocked]	http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 Общие	LenTV24	https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 Общие	Mir +2 (540p) [Not 24/7]	http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
@@ -151,6 +147,7 @@
 Без категории	RZD TV (1080p) [Geo-blocked]	http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 Без категории	Sankt-Peterburg (576p)	http://31.148.48.15/Sankt_Peterburg/index.m3u8
 Без категории	Seven (576p)	http://31.148.48.15/7TV/index.m3u8
+Без категории	Shchyolkovskoe TV (576p) [Not 24/7]	http://stream0.tv41.ru/live.m3u8
 Без категории	Solovyov Live (1080p)	https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 Без категории	TNV-Planet (576p)	https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
 Без категории	Tochka TV (576p)	http://31.148.48.15/Tochka_TV/index.m3u8
