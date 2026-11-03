@@ -63,11 +63,13 @@
 Новости	Don 24 (1080p)	https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
 Новости	Legendarnyy 24	https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 Новости	Millet (720p)	https://live1.1tvcrimea.ru/milletlive.m3u8
+Новости	Oplot TV (1080p) [Geo-blocked]	http://31.131.141.195:8000/play/a006/index.m3u8
 Новости	Russia-24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 Новости	Russia-24 HD (1080p)	http://77.232.131.211/Rossiya24/index.m3u8
 Образование	Doctor (1080p)	http://31.148.48.15/Doktor/index.m3u8
 Образование	English Class (1080p)	http://31.148.48.15/English_club_TV_HD/index.m3u8
 Образование	Kto est kto (576p)	http://31.148.48.15/Kto_est_kto/index.m3u8
+Общие	6 TV Gorlovka (720p) [Geo-blocked]	http://91.214.48.158:4022/udp/224.2.2.4:10000
 Общие	Afontovo	https://stream.afontovo.ru/hd.m3u8
 Общие	Arktika 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 Общие	Bashkortostan 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
@@ -116,6 +118,7 @@
 Семейные	Velvet. European Movies (1080p)	https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
 Семейные	Velvet. Svaty (1080p)	https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
 Сериалы	A2 (576p)	http://31.148.48.15/A2/index.m3u8
+Сериалы	City Eden TeleNovella [Not 24/7]	https://cityeden.catcast.tv/content/46209/index.m3u8
 Сериалы	NTV-Hit (576p)	http://178.134.1.158:8081/ntvhit/index.m3u8
 Сериалы	Saphire (1080p)	http://77.232.131.211/Sapfir/manifest.m3u8
 Сериалы	Velvet. Mentovskiye Serialy (1080p)	https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
