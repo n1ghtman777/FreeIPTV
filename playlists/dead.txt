@@ -30,6 +30,7 @@
 Кино	Kino TV (720p)	http://31.148.48.15/Kino_TV_HD/index.m3u8
 Кино	Kinopremyera HD (1080p)	https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 Кино	KinoSat (576p)	http://31.148.48.15/Kineko/index.m3u8
+Кино	Kinoseriya (576p)	https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 Кино	Mosfilm Gold Collection (576p)	http://31.222.235.15/mosfilm/index.m3u8
 Кино	Patriot (720p)	https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
 Кино	Russkiy Illusion (576p)	http://31.148.48.15/Russkiy_illusion/index.m3u8
@@ -52,7 +53,7 @@
 Музыка	A1 (576p)	http://31.148.48.15/A1/index.m3u8
 Музыка	BRIDGE Deluxe (1080p)	http://31.148.48.15/Bridge_TV_HD/index.m3u8
 Музыка	Europa Plus TV (1080p)	http://31.148.48.15/Europa_Plus_HD/index.m3u8
-Музыка	MCM Top (576p)	http://46.32.176.50/mcmtop/index.m3u8
+Музыка	MCM Top (Russia) (576p)	http://46.32.176.50/mcmtop/index.m3u8
 Музыка	Muz-TV (576p)	http://46.32.176.50/muztv/index.m3u8
 Музыка	o2tv (720p)	http://31.148.48.15/O2_HD/index.m3u8
 Музыка	Radio Shanson (720p) [Not 24/7]	http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
@@ -77,12 +78,15 @@
 Общие	Channel One (Russia) HD (720p)	https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 Общие	Gorodskoy telekanal (720p)	https://gtk.tv/hls/gtyar.m3u8
 Общие	Kavkaz 24 (576p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+Общие	Kongress TV (1080p)	https://live-3.otcnet.ru/congresstv/index.m3u8
 Общие	Kuban 24 (480p) [Geo-blocked]	http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 Общие	LenTV24	https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 Общие	Mir +2 (540p) [Not 24/7]	http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 Общие	Mir +4 (576p)	http://31.148.48.15/Mir/index.m3u8
 Общие	Mir +7 (540p)	http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+Общие	Mir Kazakhstan (576p)	http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 Общие	Nizhniy Novgorod 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
+Общие	NTM (720p) [Not 24/7]	https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 Общие	NTV (Russia) (576p)	http://45.153.24.78/NTV/index.m3u8
 Общие	NTV (Russia) +1 (576p)	https://cdn.ntv.ru/ntv1/playlist.m3u8
 Общие	NTV (Russia) +2 (576p)	https://cdn.ntv.ru/ntv2/playlist.m3u8
@@ -118,7 +122,6 @@
 Семейные	Velvet. European Movies (1080p)	https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
 Семейные	Velvet. Svaty (1080p)	https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
 Сериалы	A2 (576p)	http://31.148.48.15/A2/index.m3u8
-Сериалы	City Eden TeleNovella [Not 24/7]	https://cityeden.catcast.tv/content/46209/index.m3u8
 Сериалы	NTV-Hit (576p)	http://178.134.1.158:8081/ntvhit/index.m3u8
 Сериалы	Saphire (1080p)	http://77.232.131.211/Sapfir/manifest.m3u8
 Сериалы	Velvet. Mentovskiye Serialy (1080p)	https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
@@ -138,6 +141,7 @@
 Без категории	Lapki Live (576p)	https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
 Без категории	like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 1	http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 Без категории	NTV Law (576p)	https://cdn.ntv.ru/th_pravo/playlist.m3u8
+Без категории	NTV Sledstviye veli (1080p) [Geo-blocked]	https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
 Без категории	NTV Svoya igra (1080p)	https://cdn-dvr.ntv.ru/th_svoya_igra/index.m3u8
 Без категории	Pro Lyubov (1080p)	http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 Без категории	RZD TV (1080p) [Geo-blocked]	http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
