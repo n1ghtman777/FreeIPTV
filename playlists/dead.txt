@@ -17,6 +17,7 @@
 Документальные	Nauka (Russia) (1080p)	http://31.148.48.15/Nauka_2.0/index.m3u8
 Документальные	TERRA (720p)	http://31.148.48.15/Terra_HD/index.m3u8
 Кино	Amedia Premium (720p)	http://31.148.48.15/Amedia_Premium_HD/index.m3u8
+Кино	City Eden KinoArt [Not 24/7]	https://cityeden.catcast.tv/content/38398/index.m3u8
 Кино	City Eden KinoSemya [Not 24/7]	https://v2.catcast.tv/content/38128/index.m3u8
 Кино	Detskoe kino [Not 24/7]	https://autopilot.catcast.tv/content/38720/index.m3u8
 Кино	Dom kino International (576p)	https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
@@ -49,7 +50,7 @@
 Музыка	15+ Music (1080p)	https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 Музыка	A1 (576p)	http://31.148.48.15/A1/index.m3u8
 Музыка	BRIDGE Deluxe (1080p)	http://31.148.48.15/Bridge_TV_HD/index.m3u8
-Музыка	BRIDGE Hits (576p)	http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+Музыка	City Eden Birma Play [Not 24/7]	https://cityeden.catcast.tv/content/34364/index.m3u8
 Музыка	Europa Plus TV (1080p)	http://31.148.48.15/Europa_Plus_HD/index.m3u8
 Музыка	FON Music (576p)	https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 Музыка	MCM Top (Russia) (576p)	http://46.32.176.50/mcmtop/index.m3u8
@@ -67,7 +68,6 @@
 Образование	Doctor (1080p)	http://31.148.48.15/Doktor/index.m3u8
 Образование	English Class (1080p)	http://31.148.48.15/English_club_TV_HD/index.m3u8
 Образование	Kto est kto (576p)	http://31.148.48.15/Kto_est_kto/index.m3u8
-Общие	555 (720p)	http://trk555.tv:8888/live
 Общие	Afontovo	https://stream.afontovo.ru/hd.m3u8
 Общие	Arktika 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 Общие	Bashkortostan 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
@@ -76,8 +76,8 @@
 Общие	Gorodskoy telekanal (720p)	https://gtk.tv/hls/gtyar.m3u8
 Общие	Istoki (1080p)	https://istoki.tv/live/stream1/playlist.m3u8
 Общие	Kavkaz 24 (576p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-Общие	Kongress TV (1080p)	https://live-3.otcnet.ru/congresstv/index.m3u8
 Общие	Kuban 24 (480p) [Geo-blocked]	http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
+Общие	LDPR TV (1080p)	http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 Общие	LenTV24	https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 Общие	Mir +2 (540p) [Not 24/7]	http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 Общие	Mir +4 (576p)	http://31.148.48.15/Mir/index.m3u8
@@ -110,7 +110,6 @@
 Путешествия	Teleputeshestviya (576p)	http://31.148.48.15/Teleputeshestviya/index.m3u8
 Путешествия	Travel+Adventure (1080p)	http://31.148.48.15/Travel_Adventure_HD/index.m3u8
 Путешествия	Travel+Adventure HD (1080p)	http://77.232.131.211/TravelAdventureHD/index.m3u8
-Развлекательные	.red (576p)	http://5.188.159.128:8070/RED/index.m3u8
 Развлекательные	Friday! International Kazakhstan (576p)	https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
 Развлекательные	India (576p)	https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
 Развлекательные	Poehali! (1080p)	http://31.148.48.15/Poehali/index.m3u8
@@ -128,6 +127,7 @@
 Спорт	Match! Igra (720p)	http://31.148.48.15/Match_Igra_HD/index.m3u8
 Спорт	Match! Planeta (576p)	https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 Спорт	Match! Strana (720p)	http://31.148.48.15/Match_Strana/index.m3u8
+Спорт	Match! Ultra (1080p)	http://31.148.5.241/kanal_3/index.m3u8
 Спорт	Okko Prajm Sport (1080p)	http://stream.mcquack.net/493/index.m3u8
 Спорт	Russian Extreme (576p)	http://31.148.48.15/Russkiy_Ekstrim/index.m3u8
 Спорт	Start Triumf (1080p)	https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
@@ -138,6 +138,7 @@
 Без категории	NTV Law (576p)	https://cdn.ntv.ru/th_pravo/playlist.m3u8
 Без категории	NTV Svoya igra (1080p)	https://cdn-dvr.ntv.ru/th_svoya_igra/index.m3u8
 Без категории	Pro Lyubov (1080p)	http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
+Без категории	Rus (576p)	http://31.148.5.241/kanal_21/index.m3u8
 Без категории	RZD TV (1080p) [Geo-blocked]	http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 Без категории	Sankt-Peterburg (576p)	http://31.148.48.15/Sankt_Peterburg/index.m3u8
 Без категории	Seven (576p)	http://31.148.48.15/7TV/index.m3u8
@@ -150,6 +151,5 @@
 Без категории	Unknown Russia (1080p)	https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 Без категории	Volgograd 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 Без категории	Yalta TV (480p) [Geo-blocked]	http://195.26.83.96:7029/play/a006
-Без категории	Zagorodnaya Zhizn (576p)	http://185.57.68.33/40/index.m3u8
 Без категории	Zoo TV (576p)	http://31.148.48.15/Zoo_TV/index.m3u8
 Без категории	Zoopark (576p)	https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv
