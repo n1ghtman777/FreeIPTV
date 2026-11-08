@@ -30,14 +30,17 @@
 Кино	Kineko (1080p)	http://31.148.48.15/Kineko_HD/index.m3u8
 Кино	Kino 24 (720p)	http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 Кино	Kino TV (720p)	http://31.148.48.15/Kino_TV_HD/index.m3u8
+Кино	Kinopremyera (1080p)	http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 Кино	Kinopremyera HD (1080p)	https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 Кино	KinoSat (576p)	http://31.148.48.15/Kineko/index.m3u8
+Кино	Kinosvidanie (576p)	http://5.188.159.128:8070/kinosvidanie/index.m3u8
 Кино	Mosfilm Gold Collection (576p)	http://31.222.235.15/mosfilm/index.m3u8
 Кино	Patriot (720p)	https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
 Кино	Russkiy Illusion (576p)	http://31.148.48.15/Russkiy_illusion/index.m3u8
 Кино	Russkiy roman (1080p)	http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 Кино	START World (576p)	https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 Кино	Velvet. Scary (1080p)	https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
+Классика	BRIDGE Classic (576p)	http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 Классика	Velvet. Golden Collection (1080p)	https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
 Классика	Velvet. Sovetskoe Kino (1080p)	https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
 Комедия	alpha Cinema (1080p)	https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
@@ -66,6 +69,7 @@
 Новости	Don 24 (1080p)	https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
 Новости	Legendarnyy 24	https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 Новости	Millet (720p)	https://live1.1tvcrimea.ru/milletlive.m3u8
+Новости	Oplot TV SD (1080p) [Geo-blocked]	http://31.131.139.253:9002/oplot_hd/index.m3u8
 Новости	Russia-24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 Новости	Russia-24 HD (1080p)	http://77.232.131.211/Rossiya24/index.m3u8
 Образование	Doctor (1080p)	http://31.148.48.15/Doktor/index.m3u8
@@ -86,7 +90,6 @@
 Общие	Mir +4 (576p)	http://31.148.48.15/Mir/index.m3u8
 Общие	Mir +7 (540p)	http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 Общие	Nizhniy Novgorod 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
-Общие	NTS (1080p) [Not 24/7]	https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 Общие	NTV (Russia) +1 (576p)	https://cdn.ntv.ru/ntv1/playlist.m3u8
 Общие	NTV (Russia) +2 (576p)	https://cdn.ntv.ru/ntv2/playlist.m3u8
 Общие	NTV (Russia) +4 (576p)	https://cdn.ntv.ru/ntv4/playlist.m3u8
@@ -114,6 +117,7 @@
 Путешествия	Teleputeshestviya (576p)	http://31.148.48.15/Teleputeshestviya/index.m3u8
 Путешествия	Travel+Adventure (1080p)	http://31.148.48.15/Travel_Adventure_HD/index.m3u8
 Путешествия	Travel+Adventure HD (1080p)	http://77.232.131.211/TravelAdventureHD/index.m3u8
+Развлекательные	.red (576p)	http://5.188.159.128:8070/RED/index.m3u8
 Развлекательные	Friday! International Kazakhstan (576p)	https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
 Развлекательные	India (576p)	https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
 Развлекательные	Poehali! (1080p)	http://31.148.48.15/Poehali/index.m3u8
