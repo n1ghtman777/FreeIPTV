@@ -143,7 +143,7 @@
 Без категории	like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 1	http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 Без категории	like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)" group-title="General",Rossiya 1 Vainah (576i)	https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 Без категории	NTV Law (576p)	https://cdn.ntv.ru/th_pravo/playlist.m3u8
-Без категории	NTV Svoya igra (1080p)	https://cdn-dvr.ntv.ru/th_svoya_igra/index.m3u8
+Без категории	NTV Sledstviye veli (1080p) [Geo-blocked]	https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
 Без категории	Pro Lyubov (1080p)	http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 Без категории	RZD TV (1080p) [Geo-blocked]	http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 Без категории	Sankt-Peterburg (576p)	http://31.148.48.15/Sankt_Peterburg/index.m3u8
@@ -154,6 +154,7 @@
 Без категории	Tochka otryva (576p)	https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv
 Без категории	Tochka TV (576p)	http://31.148.48.15/Tochka_TV/index.m3u8
 Без категории	TVK (Russia) (576p)	https://air.tvk6.ru/tvk24/playlist.m3u8
+Без категории	Univer TV (1080p)	https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 Без категории	Unknown Russia (1080p)	https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 Без категории	Volgograd 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 Без категории	Yalta TV (480p) [Geo-blocked]	http://195.26.83.96:7029/play/a006
