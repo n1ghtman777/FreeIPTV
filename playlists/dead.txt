@@ -1,5 +1,5 @@
 Авто	Auto Plus (576p)	http://31.148.48.15/Avto_Plus/index.m3u8
-Авто	City Eden AutoGid [Not 24/7]	https://cityeden.catcast.tv/content/47515/index.m3u8
+Бизнес	Pro Business (720p)	https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 Детские	Ani (576p)	http://46.32.176.50/anitv/index.m3u8
 Детские	Carousel (1080p)	http://31.148.48.15/Karusel_HD/index.m3u8
 Детские	Mama (576p)	http://flussonic.linkintel.ru/mama/index.m3u8
@@ -11,24 +11,15 @@
 Детские	SuperGeroi (1080p)	http://31.148.48.15/Malish_TV/index.m3u8
 Детские	TiJi (576p)	http://flussonic.linkintel.ru/tiji/index.m3u8
 Детские	Unikum (576p)	http://31.148.48.15/Detskiy/index.m3u8
-Документальные	City Eden KinoDok [Not 24/7]	https://cityeden.catcast.tv/content/38354/index.m3u8
 Документальные	DocuBox Russia	http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8
 Документальные	Istoriya (576p)	https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
 Документальные	National Geographic (Russia) (1080p)	http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
 Документальные	National Geographic Wild (Russia) (576p)	https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
 Документальные	National Geographic Wild (Russia) HD	http://178.76.68.60:7442/50/mpegts
 Документальные	Nauka (Russia) (1080p)	http://31.148.48.15/Nauka_2.0/index.m3u8
+Документальные	TERRA (1080p)	http://s1.merlive.am/TerraHD/index.m3u8
 Кино	Amedia Premium (720p)	http://31.148.48.15/Amedia_Premium_HD/index.m3u8
 Кино	Cinema (Russia) (576p)	http://flussonic.linkintel.ru/cinema/index.m3u8
-Кино	City Eden KinoAction [Not 24/7]	https://cityeden.catcast.tv/content/41333/index.m3u8
-Кино	City Eden KinoArt [Not 24/7]	https://cityeden.catcast.tv/content/38398/index.m3u8
-Кино	City Eden KinoAsia [Not 24/7]	https://cityeden.catcast.tv/content/34393/index.m3u8
-Кино	City Eden KinoDetektiv [Not 24/7]	https://cityeden.catcast.tv/content/41327/index.m3u8
-Кино	City Eden KinoDrama [Not 24/7]	https://cityeden.catcast.tv/content/45269/index.m3u8
-Кино	City Eden KinoFantastika [Not 24/7]	https://cityeden.catcast.tv/content/45268/index.m3u8
-Кино	City Eden KinoKlassika [Not 24/7]	https://cityeden.catcast.tv/content/34185/index.m3u8
-Кино	City Eden KinoKomediya [Not 24/7]	https://cityeden.catcast.tv/content/41331/index.m3u8
-Кино	City Eden KinoMistika [Not 24/7]	https://cityeden.catcast.tv/content/40783/index.m3u8
 Кино	City Eden KinoSemya [Not 24/7]	https://v2.catcast.tv/content/38128/index.m3u8
 Кино	Detskoe kino [Not 24/7]	https://autopilot.catcast.tv/content/38720/index.m3u8
 Кино	Dom kino International (576p)	https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
@@ -42,10 +33,12 @@
 Кино	Kinopremyera HD (1080p)	https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 Кино	KinoSat (576p)	http://31.148.48.15/Kineko/index.m3u8
 Кино	Kinosvidanie (576p)	http://5.188.159.128:8070/kinosvidanie/index.m3u8
+Кино	Kinouzhas (1080p)	http://s1.merlive.am/Kinoujas/index.m3u8
 Кино	Mosfilm Gold Collection (576p)	http://31.222.235.15/mosfilm/index.m3u8
 Кино	Patriot (720p)	https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
 Кино	Russkiy Illusion (576p)	http://31.148.48.15/Russkiy_illusion/index.m3u8
 Кино	Russkiy roman (1080p)	http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+Кино	Star Cinema (576p)	http://s1.merlive.am/starsinema/index.m3u8
 Кино	START World (576p)	https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 Кино	Velvet. Scary (1080p)	https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
 Классика	BRIDGE Classic (576p)	http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
@@ -54,13 +47,11 @@
 Комедия	alpha Cinema (1080p)	https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 Комедия	Velvet. Series Hits (1080p)	https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
 Комедия	Velvet. World Series (1080p)	https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
-Кулинария	City Eden Recepty Gurmana [Not 24/7]	https://cityeden.catcast.tv/content/47516/index.m3u8
 Кулинария	Telecafe (Russia) (1080p)	http://s1.merlive.am/telekafe/index.m3u8
 Культура	Russia-K +2 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 Культура	Russia-K +4 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 Культура	Russia-K +7 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 Культура	Teatr (576p)	http://31.148.48.15/Sochi_HD/index.m3u8
-Лайфстайл	City Eden MedZdrav [Not 24/7]	https://cityeden.catcast.tv/content/47519/index.m3u8
 Лайфстайл	Domashnie Zhivotnye (576p)	https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv
 Лайфстайл	NTV Style (576p)	https://cdn.ntv.ru/th_style/playlist.m3u8
 Лайфстайл	Zhivi! (1080p)	http://31.148.48.15/Zhivi/index.m3u8
@@ -68,10 +59,6 @@
 Музыка	A1 (576p)	http://31.148.48.15/A1/index.m3u8
 Музыка	BRIDGE Deluxe (1080p)	http://31.148.48.15/Bridge_TV_HD/index.m3u8
 Музыка	BRIDGE Hits (576p)	http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
-Музыка	City Eden Birma Play [Not 24/7]	https://cityeden.catcast.tv/content/34364/index.m3u8
-Музыка	City Eden Classic Music [Not 24/7]	https://cityeden.catcast.tv/content/47400/index.m3u8
-Музыка	City Eden Play [Not 24/7]	https://cityeden.catcast.tv/content/34100/index.m3u8
-Музыка	City Eden Sirtaki TV [Not 24/7]	https://cityeden.catcast.tv/content/46421/index.m3u8
 Музыка	Europa Plus TV (1080p)	http://31.148.48.15/Europa_Plus_HD/index.m3u8
 Музыка	FON Music (576p)	https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 Музыка	MCM Top (Russia) (576p)	http://46.32.176.50/mcmtop/index.m3u8
@@ -83,24 +70,21 @@
 Мультфильмы	Solnce (576p)	http://31.148.48.15/Solnce/index.m3u8
 Новости	Crimea 24	https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 Новости	Don 24 (1080p)	https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
-Новости	Krik-TV (1080p)	http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 Новости	Legendarnyy 24	https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 Новости	Millet (720p)	https://live1.1tvcrimea.ru/milletlive.m3u8
-Новости	Oplot TV (1080p) [Geo-blocked]	http://31.131.141.195:8000/play/a006/index.m3u8
 Новости	Russia-24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 Новости	Russia-24 HD (1080p)	http://77.232.131.211/Rossiya24/index.m3u8
 Образование	Doctor (1080p)	http://31.148.48.15/Doktor/index.m3u8
 Образование	English Class (1080p)	http://31.148.48.15/English_club_TV_HD/index.m3u8
 Образование	Kto est kto (576p)	http://31.148.48.15/Kto_est_kto/index.m3u8
-Общие	555 (720p)	http://trk555.tv:8888/live
 Общие	Afontovo	https://stream.afontovo.ru/hd.m3u8
 Общие	Arktika 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 Общие	Bashkortostan 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 Общие	Channel One (Russia) (1080p)	http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 Общие	Channel One (Russia) HD (720p)	https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-Общие	City Eden TV [Not 24/7]	https://cityeden.catcast.tv/content/34246/index.m3u8
 Общие	Gorodskoy telekanal (720p)	https://gtk.tv/hls/gtyar.m3u8
 Общие	Kavkaz 24 (576p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+Общие	Kongress TV (1080p)	https://live-3.otcnet.ru/congresstv/index.m3u8
 Общие	Kuban 24 (480p) [Geo-blocked]	http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 Общие	LDPR TV (1080p)	http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 Общие	LenTV24	https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
@@ -115,7 +99,7 @@
 Общие	NTV (Russia) HD (1080p)	http://flussonic.linkintel.ru/ntv/index.m3u8
 Общие	NTV Vitrina (720p)	https://cdn.ntv.ru/vitrina/index.m3u8
 Общие	Perviy Krymskiy (720p)	https://live1.1tvcrimea.ru/1tvcrimea.m3u8
-Общие	Radio Mir (720p)	https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+Общие	Radio 1 (Russia) (720p) [Geo-blocked]	https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 Общие	Russia-1 (1080p)	http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
 Общие	Russia-1 +4 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 Общие	Russia-1 +5 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
@@ -146,7 +130,6 @@
 Семейные	Velvet. European Movies (1080p)	https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
 Семейные	Velvet. Svaty (1080p)	https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
 Сериалы	A2 (576p)	http://31.148.48.15/A2/index.m3u8
-Сериалы	City Eden TeleNovella [Not 24/7]	https://cityeden.catcast.tv/content/46209/index.m3u8
 Сериалы	Velvet. Mentovskiye Serialy (1080p)	https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
 Спорт	Boks TV (720p)	http://31.148.48.15/Boks_TV/index.m3u8
 Спорт	Extreme Sports Channel (576p)	http://46.32.176.50/extremesport/index.m3u8
@@ -155,6 +138,7 @@
 Спорт	Match! Igra (720p)	http://31.148.48.15/Match_Igra_HD/index.m3u8
 Спорт	Match! Planeta (576p)	https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 Спорт	Match! Strana (720p)	http://31.148.48.15/Match_Strana/index.m3u8
+Спорт	Match! Ultra (1080p)	http://31.148.5.241/kanal_3/index.m3u8
 Спорт	Okko Prajm Sport (1080p)	http://stream.mcquack.net/493/index.m3u8
 Спорт	Russian Extreme (576p)	http://31.148.48.15/Russkiy_Ekstrim/index.m3u8
 Спорт	Start Triumf (1080p)	https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
@@ -164,6 +148,7 @@
 Без категории	like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 1	http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 Без категории	NTV Law (576p)	https://cdn.ntv.ru/th_pravo/playlist.m3u8
 Без категории	Pro Lyubov (1080p)	http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
+Без категории	Rus (576p)	http://31.148.5.241/kanal_21/index.m3u8
 Без категории	RZD TV (1080p) [Geo-blocked]	http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 Без категории	Sankt-Peterburg (576p)	http://31.148.48.15/Sankt_Peterburg/index.m3u8
 Без категории	Seven (576p)	http://31.148.48.15/7TV/index.m3u8
