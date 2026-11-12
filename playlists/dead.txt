@@ -1,5 +1,4 @@
 Авто	Auto Plus (576p)	http://31.148.48.15/Avto_Plus/index.m3u8
-Бизнес	Pro Business (720p)	https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 Детские	Ani (576p)	http://46.32.176.50/anitv/index.m3u8
 Детские	Carousel (1080p)	http://31.148.48.15/Karusel_HD/index.m3u8
 Детские	Mama (576p)	http://flussonic.linkintel.ru/mama/index.m3u8
@@ -72,6 +71,8 @@
 Новости	Don 24 (1080p)	https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
 Новости	Legendarnyy 24	https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 Новости	Millet (720p)	https://live1.1tvcrimea.ru/milletlive.m3u8
+Новости	Novorossiya TV (1080p) [Geo-blocked]	http://31.131.139.253:9002/novoros/index.m3u8
+Новости	Oplot TV SD (1080p) [Geo-blocked]	http://31.131.139.253:9002/oplot_hd/index.m3u8
 Новости	Russia-24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 Новости	Russia-24 HD (1080p)	http://77.232.131.211/Rossiya24/index.m3u8
 Образование	Doctor (1080p)	http://31.148.48.15/Doktor/index.m3u8
@@ -84,7 +85,6 @@
 Общие	Channel One (Russia) HD (720p)	https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 Общие	Gorodskoy telekanal (720p)	https://gtk.tv/hls/gtyar.m3u8
 Общие	Kavkaz 24 (576p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-Общие	Kongress TV (1080p)	https://live-3.otcnet.ru/congresstv/index.m3u8
 Общие	Kuban 24 (480p) [Geo-blocked]	http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 Общие	LDPR TV (1080p)	http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 Общие	LenTV24	https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
@@ -99,7 +99,6 @@
 Общие	NTV (Russia) HD (1080p)	http://flussonic.linkintel.ru/ntv/index.m3u8
 Общие	NTV Vitrina (720p)	https://cdn.ntv.ru/vitrina/index.m3u8
 Общие	Perviy Krymskiy (720p)	https://live1.1tvcrimea.ru/1tvcrimea.m3u8
-Общие	Radio 1 (Russia) (720p) [Geo-blocked]	https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 Общие	Russia-1 (1080p)	http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
 Общие	Russia-1 +4 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 Общие	Russia-1 +5 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
@@ -138,7 +137,6 @@
 Спорт	Match! Igra (720p)	http://31.148.48.15/Match_Igra_HD/index.m3u8
 Спорт	Match! Planeta (576p)	https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 Спорт	Match! Strana (720p)	http://31.148.48.15/Match_Strana/index.m3u8
-Спорт	Match! Ultra (1080p)	http://31.148.5.241/kanal_3/index.m3u8
 Спорт	Okko Prajm Sport (1080p)	http://stream.mcquack.net/493/index.m3u8
 Спорт	Russian Extreme (576p)	http://31.148.48.15/Russkiy_Ekstrim/index.m3u8
 Спорт	Start Triumf (1080p)	https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
@@ -148,7 +146,6 @@
 Без категории	like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 1	http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 Без категории	NTV Law (576p)	https://cdn.ntv.ru/th_pravo/playlist.m3u8
 Без категории	Pro Lyubov (1080p)	http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
-Без категории	Rus (576p)	http://31.148.5.241/kanal_21/index.m3u8
 Без категории	RZD TV (1080p) [Geo-blocked]	http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 Без категории	Sankt-Peterburg (576p)	http://31.148.48.15/Sankt_Peterburg/index.m3u8
 Без категории	Seven (576p)	http://31.148.48.15/7TV/index.m3u8
