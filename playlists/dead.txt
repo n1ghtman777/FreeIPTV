@@ -143,7 +143,6 @@
 Спорт	Vital Drive	https://autopilot.catcast.tv/content/37909/index.m3u8
 Без категории	Big Planet (576p)	https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
 Без категории	Lapki Live (576p)	https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
-Без категории	like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 1	http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 Без категории	NTV Law (576p)	https://cdn.ntv.ru/th_pravo/playlist.m3u8
 Без категории	Pro Lyubov (1080p)	http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 Без категории	RZD TV (1080p) [Geo-blocked]	http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
