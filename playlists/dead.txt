@@ -71,6 +71,8 @@
 Новости	Don 24 (1080p)	https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
 Новости	Legendarnyy 24	https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 Новости	Millet (720p)	https://live1.1tvcrimea.ru/milletlive.m3u8
+Новости	Novorossiya TV (1080p) [Geo-blocked]	http://31.131.139.253:9002/novoros/index.m3u8
+Новости	Oplot TV SD (1080p) [Geo-blocked]	http://31.131.139.253:9002/oplot_hd/index.m3u8
 Новости	Russia-24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 Новости	Russia-24 HD (1080p)	http://77.232.131.211/Rossiya24/index.m3u8
 Образование	Doctor (1080p)	http://31.148.48.15/Doktor/index.m3u8
@@ -142,6 +144,7 @@
 Без категории	Big Planet (576p)	https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
 Без категории	Lapki Live (576p)	https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
 Без категории	NTV Law (576p)	https://cdn.ntv.ru/th_pravo/playlist.m3u8
+Без категории	NTV Sledstviye veli (1080p) [Geo-blocked]	https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
 Без категории	Pro Lyubov (1080p)	http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 Без категории	RZD TV (1080p) [Geo-blocked]	http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 Без категории	Sankt-Peterburg (576p)	http://31.148.48.15/Sankt_Peterburg/index.m3u8
