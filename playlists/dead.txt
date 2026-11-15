@@ -28,8 +28,7 @@
 Кино	Kineko (1080p)	http://31.148.48.15/Kineko_HD/index.m3u8
 Кино	Kino 24 (720p)	http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 Кино	Kino TV (720p)	http://31.148.48.15/Kino_TV_HD/index.m3u8
-Кино	Kinopremyera (1080p)	http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
-Кино	Kinopremyera HD (1080p)	https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
+Кино	Kinopremyera (1080p)	https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 Кино	KinoSat (576p)	http://31.148.48.15/Kineko/index.m3u8
 Кино	Kinosvidanie (576p)	http://5.188.159.128:8070/kinosvidanie/index.m3u8
 Кино	Kinouzhas (1080p)	http://s1.merlive.am/Kinoujas/index.m3u8
@@ -121,6 +120,7 @@
 Путешествия	Travel+Adventure (1080p)	http://31.148.48.15/Travel_Adventure_HD/index.m3u8
 Путешествия	Travel+Adventure HD (1080p)	http://77.232.131.211/TravelAdventureHD/index.m3u8
 Развлекательные	.red (576p)	http://5.188.159.128:8070/RED/index.m3u8
+Развлекательные	Che! (576p)	http://flussonic.linkintel.ru/che/index.m3u8
 Развлекательные	Friday! International Kazakhstan (576p)	https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
 Развлекательные	India (576p)	https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
 Развлекательные	Poehali! (1080p)	http://31.148.48.15/Poehali/index.m3u8
