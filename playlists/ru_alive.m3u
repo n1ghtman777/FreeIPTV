@@ -115,6 +115,8 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoHit.ru@SD" tvg-logo="https://i.imgur.com/Ge8vkQM.png" group-title="Кино",KinoHit (576p)
 http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1 tvg-id="Kinomix.ru@SD" tvg-logo="https://i.imgur.com/D4q2XUT.png" group-title="Кино",Kinomix (576p)
+http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru@SD" tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="Кино",Kinopokaz (576p)
 http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 tvg-id="Kinosemja.ru@SD" tvg-logo="https://i.imgur.com/4BF5VeK.png" group-title="Кино",Kinosemja (576p)
@@ -613,8 +615,6 @@ http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 http://31.148.5.241/kanal_21/index.m3u8
 #EXTINF:-1 tvg-id="S1.ru@SD" tvg-logo="https://i.imgur.com/chNBF5t.png" group-title="Без категории",S1 (1080p) [Not 24/7]
 https://sitv.ru/hls/stv.m3u8
-#EXTINF:-1 tvg-id="Salyam.ru@SD" tvg-logo="https://i.imgur.com/FfULLr1.png" group-title="Без категории",Salyam (576p)
-https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 tvg-id="SamaraGIS.ru@SD" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" group-title="Без категории",Samara-GIS (1080p) [Not 24/7]
 https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SanktPeterburg.ru@HD" tvg-logo="https://i.imgur.com/9At4oG7.png" group-title="Без категории",Sankt-Peterburg HD (720p)

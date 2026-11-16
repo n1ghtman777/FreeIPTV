@@ -28,7 +28,6 @@
 Кино	Kineko (1080p)	http://31.148.48.15/Kineko_HD/index.m3u8
 Кино	Kino 24 (720p)	http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 Кино	Kino TV (720p)	http://31.148.48.15/Kino_TV_HD/index.m3u8
-Кино	Kinomix (576p)	http://93.170.254.17/Kinomiks/index.m3u8
 Кино	Kinopremyera (1080p)	https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 Кино	KinoSat (576p)	http://31.148.48.15/Kineko/index.m3u8
 Кино	Kinosvidanie (576p)	http://5.188.159.128:8070/kinosvidanie/index.m3u8
@@ -149,6 +148,7 @@
 Без категории	NTV Law (576p)	https://cdn.ntv.ru/th_pravo/playlist.m3u8
 Без категории	Pro Lyubov (1080p)	http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 Без категории	RZD TV (1080p) [Geo-blocked]	http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+Без категории	Salyam (576p)	https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 Без категории	Sankt-Peterburg (576p)	http://31.148.48.15/Sankt_Peterburg/index.m3u8
 Без категории	Seven (576p)	http://31.148.48.15/7TV/index.m3u8
 Без категории	Solovyov Live (1080p)	https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
