@@ -63,14 +63,13 @@
 Новости	Don 24 (1080p)	https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
 Новости	Legendarnyy 24	https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 Новости	Millet (720p)	https://live1.1tvcrimea.ru/milletlive.m3u8
-Новости	Novorossiya TV (1080p) [Geo-blocked]	http://31.131.139.253:9002/novoros/index.m3u8
-Новости	Oplot TV SD (1080p) [Geo-blocked]	http://31.131.139.253:9002/oplot_hd/index.m3u8
+Новости	Oplot TV (1080p) [Geo-blocked]	http://31.131.141.195:8000/play/a006/index.m3u8
 Новости	Russia-24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 Новости	Russia-24 HD (1080p)	http://77.232.131.211/Rossiya24/index.m3u8
 Образование	Doctor (1080p)	http://31.148.48.15/Doktor/index.m3u8
 Образование	English Class (1080p)	http://31.148.48.15/English_club_TV_HD/index.m3u8
 Образование	Kto est kto (576p)	http://31.148.48.15/Kto_est_kto/index.m3u8
-Общие	6 TV Gorlovka (720p) [Geo-blocked]	http://91.214.48.158:4022/udp/224.2.2.4:10000
+Общие	86 (1080p) [Not 24/7]	https://sitv.ru/hls/s86.m3u8
 Общие	Afontovo	https://stream.afontovo.ru/hd.m3u8
 Общие	Arktika 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 Общие	Bashkortostan 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
@@ -78,7 +77,6 @@
 Общие	Channel One (Russia) HD (720p)	https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 Общие	Gorodskoy telekanal (720p)	https://gtk.tv/hls/gtyar.m3u8
 Общие	Kavkaz 24 (576p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-Общие	Kongress TV (1080p)	https://live-3.otcnet.ru/congresstv/index.m3u8
 Общие	Kuban 24 (480p) [Geo-blocked]	http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 Общие	LDPR TV (1080p)	http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 Общие	LenTV24	https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
@@ -123,7 +121,6 @@
 Семейные	Velvet. European Movies (1080p)	https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
 Семейные	Velvet. Svaty (1080p)	https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
 Сериалы	A2 (576p)	http://31.148.48.15/A2/index.m3u8
-Сериалы	City Eden TeleNovella [Not 24/7]	https://cityeden.catcast.tv/content/46209/index.m3u8
 Сериалы	Velvet. Mentovskiye Serialy (1080p)	https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
 Спорт	Boks TV (720p)	http://31.148.48.15/Boks_TV/index.m3u8
 Спорт	Extreme Sports Channel (576p)	http://46.32.176.50/extremesport/index.m3u8
@@ -135,7 +132,6 @@
 Спорт	Russian Extreme (576p)	http://31.148.48.15/Russkiy_Ekstrim/index.m3u8
 Спорт	Start Triumf (1080p)	https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
 Спорт	Vital Drive	https://autopilot.catcast.tv/content/37909/index.m3u8
-Без категории	like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)" group-title="General",Rossiya 1 Vainah (576i)	https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 Без категории	NTV Law (576p)	https://cdn.ntv.ru/th_pravo/playlist.m3u8
 Без категории	Pro Lyubov (1080p)	http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 Без категории	RZD TV (1080p) [Geo-blocked]	http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
