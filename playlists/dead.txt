@@ -37,6 +37,7 @@
 Классика	Velvet. Golden Collection (1080p)	https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
 Классика	Velvet. Sovetskoe Kino (1080p)	https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
 Комедия	alpha Cinema (1080p)	https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+Комедия	KVN TV (576p)	http://178.124.179.122:8080/KVN-TV/index.m3u8
 Комедия	Velvet. Series Hits (1080p)	https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
 Комедия	Velvet. World Series (1080p)	https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
 Кулинария	Telecafe (Russia) (1080p)	http://s1.merlive.am/telekafe/index.m3u8
@@ -63,13 +64,12 @@
 Новости	Don 24 (1080p)	https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
 Новости	Legendarnyy 24	https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 Новости	Millet (720p)	https://live1.1tvcrimea.ru/milletlive.m3u8
-Новости	Oplot TV (1080p) [Geo-blocked]	http://31.131.141.195:8000/play/a006/index.m3u8
 Новости	Russia-24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 Новости	Russia-24 HD (1080p)	http://77.232.131.211/Rossiya24/index.m3u8
 Образование	Doctor (1080p)	http://31.148.48.15/Doktor/index.m3u8
 Образование	English Class (1080p)	http://31.148.48.15/English_club_TV_HD/index.m3u8
 Образование	Kto est kto (576p)	http://31.148.48.15/Kto_est_kto/index.m3u8
-Общие	86 (1080p) [Not 24/7]	https://sitv.ru/hls/s86.m3u8
+Общие	6 TV Gorlovka (720p) [Geo-blocked]	http://91.214.48.158:4022/udp/224.2.2.4:10000
 Общие	Afontovo	https://stream.afontovo.ru/hd.m3u8
 Общие	Arktika 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 Общие	Bashkortostan 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
@@ -111,12 +111,14 @@
 Путешествия	Teleputeshestviya (576p)	http://31.148.48.15/Teleputeshestviya/index.m3u8
 Путешествия	Travel+Adventure (1080p)	http://31.148.48.15/Travel_Adventure_HD/index.m3u8
 Путешествия	Travel+Adventure HD (1080p)	http://77.232.131.211/TravelAdventureHD/index.m3u8
+Развлекательные	.black (576p)	http://s1.merlive.am/black/index.m3u8
 Развлекательные	.red (576p)	http://5.188.159.128:8070/RED/index.m3u8
 Развлекательные	.red HD (1080p)	http://178.134.1.158:8081/red/index.m3u8
 Развлекательные	Che! (576p)	http://flussonic.linkintel.ru/che/index.m3u8
 Развлекательные	Poehali! (1080p)	http://31.148.48.15/Poehali/index.m3u8
 Развлекательные	TNT (Russia) HD (1080p)	http://45.153.24.78/TNT/index.m3u8
 Развлекательные	TNT4 (576p)	http://176.118.197.101/TNT4/index.m3u8
+Развлекательные	TV-3 Belarus (576p)	http://178.124.179.122:8080/TB-3/index.m3u8
 Религия	Vera 24	https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
 Семейные	Velvet. European Movies (1080p)	https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
 Семейные	Velvet. Svaty (1080p)	https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
@@ -127,10 +129,14 @@
 Спорт	KHL (720p)	http://31.148.48.15/KHL_TV/index.m3u8
 Спорт	Match! Arena (720p)	http://31.148.48.15/Match_Arena_HD/index.m3u8
 Спорт	Match! Igra (720p)	http://31.148.48.15/Match_Igra_HD/index.m3u8
+Спорт	Match! Planeta (576p)	http://s1.merlive.am/matchplaneta/index.m3u8
 Спорт	Match! Strana (720p)	http://31.148.48.15/Match_Strana/index.m3u8
+Спорт	Match! Ultra (1080p)	http://31.148.5.241/kanal_3/index.m3u8
+Спорт	Okko Futbol (576p)	http://178.124.179.122:8080/Setanta1/index.m3u8
 Спорт	Okko Prajm Sport (1080p)	http://stream.mcquack.net/493/index.m3u8
 Спорт	Russian Extreme (576p)	http://31.148.48.15/Russkiy_Ekstrim/index.m3u8
 Спорт	Start Triumf (1080p)	https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
+Спорт	viju+ Sport (576p)	http://31.148.5.241/Viasat_Sport/index.m3u8
 Спорт	Vital Drive	https://autopilot.catcast.tv/content/37909/index.m3u8
 Без категории	NTV Law (576p)	https://cdn.ntv.ru/th_pravo/playlist.m3u8
 Без категории	Pro Lyubov (1080p)	http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
@@ -143,4 +149,5 @@
 Без категории	Unknown Russia (1080p)	https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 Без категории	Volgograd 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 Без категории	Yalta TV (480p) [Geo-blocked]	http://195.26.83.96:7029/play/a006
+Без категории	Zhivaya priroda HD (1080p)	http://s1.merlive.am/Jivaiapriroda/index.m3u8
 Без категории	Zoo TV (576p)	http://31.148.48.15/Zoo_TV/index.m3u8
