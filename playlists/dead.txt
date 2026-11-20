@@ -82,7 +82,6 @@
 Музыка	A1 (576p)	http://31.148.48.15/A1/index.m3u8
 Музыка	BRIDGE Deluxe (1080p)	http://31.148.48.15/Bridge_TV_HD/index.m3u8
 Музыка	BRIDGE Deluxe HD (576p)	http://stream.mcquack.net/92/index.m3u8
-Музыка	BRIDGE Hits (576p)	http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 Музыка	Classic Music (1080p)	http://stream.mcquack.net/312/index.m3u8
 Музыка	Europa Plus TV (1080p)	http://31.148.48.15/Europa_Plus_HD/index.m3u8
 Музыка	FON Music (576p)	https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
@@ -95,6 +94,7 @@
 Мультфильмы	Detvora+ (1080p)	https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
 Мультфильмы	FAN (1080p)	http://31.148.48.15/Fan/index.m3u8
 Мультфильмы	Solnce (576p)	http://31.148.48.15/Solnce/index.m3u8
+Наука	.sci-fi (576p)	http://116.90.120.149:8000/play/a0ao/index.m3u8
 Новости	Crimea 24	https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 Новости	Don 24 (1080p)	https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
 Новости	Legendarnyy 24	https://sevas.1tvcrimea.ru/legendarniy24.m3u8
@@ -102,9 +102,11 @@
 Новости	Novorossiya TV (1080p) [Geo-blocked]	http://31.131.139.253:9002/novoros/index.m3u8
 Новости	Oplot TV SD (1080p) [Geo-blocked]	http://31.131.139.253:9002/oplot_hd/index.m3u8
 Новости	Russia-24 HD (1080p)	http://77.232.131.211/Rossiya24/index.m3u8
+Образование	Da Vinci (Russia) (576p)	http://116.90.120.149:8000/play/a0s6/index.m3u8
 Образование	Doctor (1080p)	http://31.148.48.15/Doktor/index.m3u8
 Образование	English Class (1080p)	http://31.148.48.15/English_club_TV_HD/index.m3u8
 Образование	Kto est kto (576p)	http://31.148.48.15/Kto_est_kto/index.m3u8
+Общие	6 TV Gorlovka (720p) [Geo-blocked]	http://91.214.48.158:4022/udp/224.2.2.4:10000
 Общие	Afontovo	https://stream.afontovo.ru/hd.m3u8
 Общие	Arktika 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 Общие	Bashkortostan 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
@@ -131,7 +133,6 @@
 Общие	Sibir 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
 Общие	Sibir 24 KYA (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 Общие	Simferopol 24	https://simf.1tvcrimea.ru/simferopol24.m3u8
-Общие	Sochi24 (720p)	http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 Общие	Ural 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 Общие	Vostok 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 Общие	Zapad 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
@@ -147,6 +148,8 @@
 Путешествия	Teleputeshestviya (576p)	http://31.148.48.15/Teleputeshestviya/index.m3u8
 Путешествия	Travel+Adventure (1080p)	http://31.148.48.15/Travel_Adventure_HD/index.m3u8
 Путешествия	Travel+Adventure HD (1080p)	http://77.232.131.211/TravelAdventureHD/index.m3u8
+Развлекательные	.black (576p)	http://116.90.120.149:8000/play/a0s4/index.m3u8
+Развлекательные	.black HD (1080p)	http://116.90.120.149:8000/play/a0ac/index.m3u8
 Развлекательные	.red (576p)	http://5.188.159.128:8070/RED/index.m3u8
 Развлекательные	.red HD (1080p)	http://178.134.1.158:8081/red/index.m3u8
 Развлекательные	Che! (576p)	http://flussonic.linkintel.ru/che/index.m3u8
@@ -180,6 +183,7 @@
 Спорт	Start Triumf (1080p)	https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
 Спорт	Vital Drive	https://autopilot.catcast.tv/content/37909/index.m3u8
 Без категории	Dushevnoe HD (1080p)	http://stream.mcquack.net/213/index.m3u8
+Без категории	like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)" group-title="General",Rossiya 1 Vainah (576i)	https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 Без категории	like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Dorama HD (1080p)	http://stream.mcquack.net/412/index.m3u8
 Без категории	NST (576p)	http://stream.mcquack.net/207/index.m3u8
 Без категории	NTV Law (576p)	https://cdn.ntv.ru/th_pravo/playlist.m3u8
@@ -192,8 +196,8 @@
 Без категории	Solovyov Live (1080p)	https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 Без категории	Tochka TV (576p)	http://31.148.48.15/Tochka_TV/index.m3u8
 Без категории	Travel Channel (Russia) (1080p)	http://stream.mcquack.net/231/index.m3u8
+Без категории	TV PRO	http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 Без категории	TVK (Russia) (576p)	https://air.tvk6.ru/tvk24/playlist.m3u8
-Без категории	Univer TV (1080p)	https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 Без категории	Unknown Russia (1080p)	https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 Без категории	Usadba (576p)	http://stream.mcquack.net/211/index.m3u8
 Без категории	V mire zhivotnykh (1080p)	http://stream.mcquack.net/241/index.m3u8
