@@ -84,6 +84,9 @@
 Музыка	BRIDGE Deluxe (1080p)	http://31.148.48.15/Bridge_TV_HD/index.m3u8
 Музыка	BRIDGE Deluxe HD (576p)	http://stream.mcquack.net/92/index.m3u8
 Музыка	BRIDGE Hits (576p)	http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+Музыка	BRIDGE Rap (720p) [Geo-blocked]	https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed9990affe00013a80b1/720p.m3u8
+Музыка	BRIDGE RNB (720p) [Geo-blocked]	https://bridgemedia-hls.cdnvideo.ru/hls/live/6affedb990affe00013a80b2/720p.m3u8
+Музыка	BRIDGE Soul (720p) [Geo-blocked]	https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed7590affe00013a80b0/720p.m3u8
 Музыка	Classic Music (1080p)	http://stream.mcquack.net/312/index.m3u8
 Музыка	Europa Plus TV (1080p)	http://31.148.48.15/Europa_Plus_HD/index.m3u8
 Музыка	FON Music (576p)	https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
@@ -107,6 +110,7 @@
 Общие	Afontovo	https://stream.afontovo.ru/hd.m3u8
 Общие	Arktika 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 Общие	Bashkortostan 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+Общие	Channel 4 (Russia) (1080p)	https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8
 Общие	Channel One (Russia) (1080p)	http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 Общие	Channel One (Russia) HD (720p)	https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 Общие	Gorodskoy telekanal (720p)	https://gtk.tv/hls/gtyar.m3u8
@@ -183,6 +187,7 @@
 Без категории	like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Dorama HD (1080p)	http://stream.mcquack.net/412/index.m3u8
 Без категории	NST (576p)	http://stream.mcquack.net/207/index.m3u8
 Без категории	NTV Law (576p)	https://cdn.ntv.ru/th_pravo/playlist.m3u8
+Без категории	NTV Sledstviye veli (1080p) [Geo-blocked]	https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
 Без категории	Priklyucheniya HD (1080p)	http://stream.mcquack.net/198/index.m3u8
 Без категории	Pro Lyubov (1080p)	http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 Без категории	RZD TV (1080p) [Geo-blocked]	http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
