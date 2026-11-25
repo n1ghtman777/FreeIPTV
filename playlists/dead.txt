@@ -121,6 +121,7 @@
 Общие	Mir +2 (540p) [Not 24/7]	http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 Общие	Mir +4 (576p)	http://31.148.48.15/Mir/index.m3u8
 Общие	Mir +7 (540p)	http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+Общие	Mir HD (1080p) [Not 24/7]	http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 Общие	Nizhniy Novgorod 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
 Общие	NTV (Russia) +1 (576p)	https://cdn.ntv.ru/ntv1/playlist.m3u8
 Общие	NTV (Russia) +2 (576p)	https://cdn.ntv.ru/ntv2/playlist.m3u8
@@ -133,6 +134,7 @@
 Общие	Sibir 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
 Общие	Sibir 24 KYA (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 Общие	Simferopol 24	https://simf.1tvcrimea.ru/simferopol24.m3u8
+Общие	Sochi24 (720p)	http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 Общие	Ural 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 Общие	Vostok 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 Общие	Zapad 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
