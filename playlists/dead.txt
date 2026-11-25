@@ -8,6 +8,7 @@
 Детские	Mult International (576p)	https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
 Детские	Nickelodeon (Russia) (576p)	http://stream.mcquack.net/443/index.m3u8
 Детские	O! (576p)	http://stream.mcquack.net/60/index.m3u8
+Детские	O! International (720p)	http://88.212.15.50/live/test_telekanal_o/playlist.m3u8
 Детские	Radost Moya (576p)	http://31.148.48.15/Radost_moya/index.m3u8
 Детские	RU.TV Kids (720p)	https://rutvkids.ru/live/efir/index.m3u8
 Детские	STS kids (1080p)	http://31.148.48.15/STS_Kids_HD/index.m3u8
@@ -121,7 +122,6 @@
 Общие	Mir +2 (540p) [Not 24/7]	http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 Общие	Mir +4 (576p)	http://31.148.48.15/Mir/index.m3u8
 Общие	Mir +7 (540p)	http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-Общие	Mir HD (1080p) [Not 24/7]	http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 Общие	Nizhniy Novgorod 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
 Общие	NTV (Russia) +1 (576p)	https://cdn.ntv.ru/ntv1/playlist.m3u8
 Общие	NTV (Russia) +2 (576p)	https://cdn.ntv.ru/ntv2/playlist.m3u8
@@ -181,15 +181,16 @@
 Спорт	Okko Futbol (576p)	http://178.124.179.122:8080/Setanta1/index.m3u8
 Спорт	Okko Prajm Sport (1080p)	http://stream.mcquack.net/493/index.m3u8
 Спорт	Russian Extreme (576p)	http://31.148.48.15/Russkiy_Ekstrim/index.m3u8
+Спорт	Sportivnyy (1080p)	https://live-3.otcnet.ru/sportivny/index.m3u8
 Спорт	Start Triumf (1080p)	https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
 Спорт	Vital Drive	https://autopilot.catcast.tv/content/37909/index.m3u8
 Без категории	Big Planet (576p)	https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
+Без категории	Bober (576p)	http://88.212.15.50/live/test_bober/playlist.m3u8
 Без категории	Dushevnoe HD (1080p)	http://stream.mcquack.net/213/index.m3u8
 Без категории	Lapki Live (576p)	https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
 Без категории	like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Dorama HD (1080p)	http://stream.mcquack.net/412/index.m3u8
 Без категории	NST (576p)	http://stream.mcquack.net/207/index.m3u8
 Без категории	NTV Law (576p)	https://cdn.ntv.ru/th_pravo/playlist.m3u8
-Без категории	NTV Sledstviye veli (1080p) [Geo-blocked]	https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
 Без категории	Priklyucheniya HD (1080p)	http://stream.mcquack.net/198/index.m3u8
 Без категории	Pro Lyubov (1080p)	http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 Без категории	RZD TV (1080p) [Geo-blocked]	http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
