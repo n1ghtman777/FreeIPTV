@@ -26,6 +26,8 @@
 Документальные	National Geographic Wild (Russia) HD	http://178.76.68.60:7442/50/mpegts
 Документальные	Nauka (Russia) (1080p)	http://31.148.48.15/Nauka_2.0/index.m3u8
 Документальные	TERRA (1080p)	http://s1.merlive.am/TerraHD/index.m3u8
+Документальные	viju Explore (576p)	http://46.53.200.153:7777/play/a01i/index.m3u8
+Документальные	viju History (576p)	http://46.53.200.153:7777/play/a01j/index.m3u8
 Документальные	viju+ Planet HD (1080p)	http://stream.mcquack.net/240/index.m3u8
 Кино	Amedia Hit (1080p)	http://stream.mcquack.net/162/index.m3u8
 Кино	Amedia Premium (720p)	http://31.148.48.15/Amedia_Premium_HD/index.m3u8
@@ -48,6 +50,7 @@
 Кино	Kinouzhas (1080p)	http://s1.merlive.am/Kinoujas/index.m3u8
 Кино	Mosfilm Gold Collection (576p)	http://31.222.235.15/mosfilm/index.m3u8
 Кино	Muzhskoe kino (576p)	http://stream.mcquack.net/107/index.m3u8
+Кино	Nash Kinopokaz HD (576p)	http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 Кино	Nashe HD (576p)	http://stream.mcquack.net/217/index.m3u8
 Кино	Nashe muzhskoe HD (1080p)	http://stream.mcquack.net/362/index.m3u8
 Кино	Ostrosyuzhetnoye HD (1080p)	http://stream.mcquack.net/214/index.m3u8
@@ -60,7 +63,12 @@
 Кино	Shokiruyushchee HD (1080p)	http://stream.mcquack.net/75/index.m3u8
 Кино	Star Cinema (576p)	http://s1.merlive.am/starsinema/index.m3u8
 Кино	START World (576p)	https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+Кино	TV 21 International (576p)	http://46.53.200.153:7777/play/TV-21M/index.m3u8
 Кино	Velvet. Scary (1080p)	https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
+Кино	viju TV1000 (576p)	http://46.53.200.153:7777/play/TV_1000/index.m3u8
+Кино	viju TV1000 novella HD (1080p)	http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+Кино	viju+ Megahit HD (1080p)	http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
+Кино	viju+ Premiere HD (1080p)	http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
 Классика	BRIDGE Classic (576p)	http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 Классика	Velvet. Golden Collection (1080p)	https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
 Классика	Velvet. Sovetskoe Kino (1080p)	https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
@@ -71,6 +79,7 @@
 Комедия	KVN TV (576p)	http://178.124.179.122:8080/KVN-TV/index.m3u8
 Комедия	Velvet. Series Hits (1080p)	https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
 Комедия	Velvet. World Series (1080p)	https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
+Комедия	viju+ Comedy HD (1080p)	http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
 Кулинария	Food Network (Russia) (1080p)	http://stream.mcquack.net/298/index.m3u8
 Кулинария	Kuhnya (576p)	http://stream.mcquack.net/179/index.m3u8
 Кулинария	Telecafe (Russia) (1080p)	http://s1.merlive.am/telekafe/index.m3u8
@@ -90,13 +99,16 @@
 Музыка	BRIDGE Soul (720p) [Geo-blocked]	https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed7590affe00013a80b0/720p.m3u8
 Музыка	Classic Music (1080p)	http://stream.mcquack.net/312/index.m3u8
 Музыка	Europa Plus TV (1080p)	http://31.148.48.15/Europa_Plus_HD/index.m3u8
+Музыка	Europa Plus TV Belarus (576p)	http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
 Музыка	FON Music (576p)	https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
+Музыка	Live Music Channel HD (1080p)	http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
 Музыка	MCM Top (Russia) (576p)	http://46.32.176.50/mcmtop/index.m3u8
 Музыка	Mezzo Live (1080p)	http://stream.mcquack.net/276/index.m3u8
 Музыка	Muzyka Live (576p)	http://stream.mcquack.net/303/index.m3u8
 Музыка	o2tv (720p)	http://31.148.48.15/O2_HD/index.m3u8
 Музыка	Radio Shanson (720p) [Not 24/7]	http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 Музыка	Russian MusicBox (576p)	http://stream.mcquack.net/319/index.m3u8
+Музыка	Shanson TV SD (576p)	http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
 Мультфильмы	Detvora+ (1080p)	https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
 Мультфильмы	FAN (1080p)	http://31.148.48.15/Fan/index.m3u8
 Мультфильмы	Solnce (576p)	http://31.148.48.15/Solnce/index.m3u8
@@ -134,7 +146,6 @@
 Общие	Sibir 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
 Общие	Sibir 24 KYA (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 Общие	Simferopol 24	https://simf.1tvcrimea.ru/simferopol24.m3u8
-Общие	Sochi24 (720p)	http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 Общие	Ural 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 Общие	Vostok 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 Общие	Zapad 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
@@ -146,6 +157,7 @@
 Природа	Rybolov (576p)	http://stream.mcquack.net/264/index.m3u8
 Путешествия	Moya stikhiya HD (1080p)	http://stream.mcquack.net/141/index.m3u8
 Путешествия	RTG TV (720p)	http://31.148.48.15/RTG_HD/index.m3u8
+Путешествия	RTG TV HD (1080p)	http://46.53.200.153:7777/play/a00u/index.m3u8
 Путешествия	Teleputeshestviya (576p)	http://31.148.48.15/Teleputeshestviya/index.m3u8
 Путешествия	Travel+Adventure (1080p)	http://31.148.48.15/Travel_Adventure_HD/index.m3u8
 Путешествия	Travel+Adventure HD (1080p)	http://77.232.131.211/TravelAdventureHD/index.m3u8
@@ -169,7 +181,10 @@
 Сериалы	A2 (576p)	http://31.148.48.15/A2/index.m3u8
 Сериалы	Fox Life (576p)	http://stream.mcquack.net/129/index.m3u8
 Сериалы	NTV Series (576p)	http://stream.mcquack.net/301/index.m3u8
+Сериалы	Saphire (1080p)	http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
 Сериалы	Velvet. Mentovskiye Serialy (1080p)	https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
+Сериалы	viju TV1000 romantica HD (1080p)	http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
+Сериалы	viju+ Serial HD (1080p)	http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
 Спорт	Boks TV (720p)	http://31.148.48.15/Boks_TV/index.m3u8
 Спорт	Extreme Sports Channel (576p)	http://46.32.176.50/extremesport/index.m3u8
 Спорт	KHL (720p)	http://31.148.48.15/KHL_TV/index.m3u8
@@ -181,8 +196,9 @@
 Спорт	Okko Futbol (576p)	http://178.124.179.122:8080/Setanta1/index.m3u8
 Спорт	Okko Prajm Sport (1080p)	http://stream.mcquack.net/493/index.m3u8
 Спорт	Russian Extreme (576p)	http://31.148.48.15/Russkiy_Ekstrim/index.m3u8
-Спорт	Sportivnyy (1080p)	https://live-3.otcnet.ru/sportivny/index.m3u8
+Спорт	Russian Extreme Ultra (1440p)	http://46.53.200.153:7777/play/test_krask1/index.m3u8
 Спорт	Start Triumf (1080p)	https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
+Спорт	viju+ Sport HD (1080p)	http://46.53.200.153:7777/play/a01l/index.m3u8
 Спорт	Vital Drive	https://autopilot.catcast.tv/content/37909/index.m3u8
 Без категории	Big Planet (576p)	https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
 Без категории	Bober (576p)	http://88.212.15.50/live/test_bober/playlist.m3u8
