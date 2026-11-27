@@ -289,6 +289,8 @@ https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
 #EXTINF:-1 tvg-id="Channel12.ru@SD" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="Общие",Channel 12 (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel4.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Channel4_logo.jpg" group-title="Общие",Channel 4 (Russia) (1080p)
+https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/960px-5-tv_logo_%282023%29.svg.png" group-title="Общие",Channel 5 (Russia) (576p)
 http://31.148.5.241/kanal_5/index.m3u8
 #EXTINF:-1 tvg-id="Channel16.ru@SD" tvg-logo="https://i.imgur.com/7tNDKHe.png" group-title="Общие",Channel-16 (406p) [Not 24/7]
@@ -307,6 +309,8 @@ http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 #EXTINF:-1 tvg-id="Istoki.ru@SD" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png" group-title="Общие",Istoki (1080p)
 https://istoki.tv/live/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="KongressTV.ru@SD" tvg-logo="https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg" group-title="Общие",Kongress TV (1080p)
+https://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="KTOKUDA.ru@SD" tvg-logo="https://ntvplus.tv/files/image/68/79/06/9wn.png" group-title="Общие",KTOKUDA (576p)
 http://s7.merlive.am/ktokuda/index.m3u8
 #EXTINF:-1 tvg-id="Kuban24.ru@SD" tvg-logo="https://i.imgur.com/atzrXcz.png" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="Общие",Kuban 24 SD [Geo-blocked]
@@ -551,6 +555,8 @@ https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 tvg-id="Prodvizhenie.ru@SD" tvg-logo="https://i.imgur.com/KlsnfG9.png" group-title="Без категории",Prodvizhenie (1080p)
 https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
+#EXTINF:-1 tvg-id="Prosveshchenie.ru@SD" tvg-logo="https://i.imgur.com/uppFhhq.png" group-title="Без категории",Prosveshchenie (576p)
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru@SD" tvg-logo="https://i.imgur.com/TgZ8Uv1.png" group-title="Без категории",Red Line (480p)
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 tvg-id="Rus.ru@SD" tvg-logo="https://i.imgur.com/KuL21f9.png" group-title="Без категории",Rus (576p)

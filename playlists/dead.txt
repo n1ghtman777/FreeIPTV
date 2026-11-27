@@ -117,12 +117,10 @@
 Общие	Afontovo	https://stream.afontovo.ru/hd.m3u8
 Общие	Arktika 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 Общие	Bashkortostan 24 (1080p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
-Общие	Channel 4 (Russia) (1080p)	https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8
 Общие	Channel One (Russia) (1080p)	http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 Общие	Channel One (Russia) HD (720p)	https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 Общие	Gorodskoy telekanal (720p)	https://gtk.tv/hls/gtyar.m3u8
 Общие	Kavkaz 24 (576p)	https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-Общие	Kongress TV (1080p)	https://live-3.otcnet.ru/congresstv/index.m3u8
 Общие	Kuban 24 (480p) [Geo-blocked]	http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 Общие	LDPR TV (1080p)	http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 Общие	LenTV24	https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
@@ -204,7 +202,6 @@
 Без категории	NTV Law (576p)	https://cdn.ntv.ru/th_pravo/playlist.m3u8
 Без категории	Priklyucheniya HD (1080p)	http://stream.mcquack.net/198/index.m3u8
 Без категории	Pro Lyubov (1080p)	http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
-Без категории	Prosveshchenie (576p)	http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 Без категории	RZD TV (1080p) [Geo-blocked]	http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 Без категории	Sankt-Peterburg (576p)	http://31.148.48.15/Sankt_Peterburg/index.m3u8
 Без категории	Seven (576p)	http://31.148.48.15/7TV/index.m3u8
