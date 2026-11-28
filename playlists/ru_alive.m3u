@@ -3,8 +3,6 @@
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Avto24.ru@SD" tvg-logo="https://i.imgur.com/GXSXmN2.png" group-title="Авто",Avto24 (576p)
 http://s7.merlive.am/avto24/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenAutoGid.ru@HD" tvg-logo="https://i.imgur.com/qpe8L27.png" group-title="Авто",City Eden AutoGid [Not 24/7]
-https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 tvg-id="Drive.ru@SD" tvg-logo="https://i.imgur.com/FnuwfSC.png" group-title="Авто",Drive (576i)
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ProBusiness.ru@SD" tvg-logo="https://i.imgur.com/1u8KvTD.png" group-title="Бизнес",Pro Business (720p)
@@ -37,8 +35,6 @@ https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Arsenal.ru@SD" tvg-logo="https://i.imgur.com/DBpVeb0.png" group-title="Документальные",Arsenal (576p)
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoDok.ru@HD" tvg-logo="https://i.imgur.com/itRbMX3.png" group-title="Документальные",City Eden KinoDok [Not 24/7]
-https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-id="Istoriya.ru@SD" tvg-logo="https://i.imgur.com/eEjPail.png" group-title="Документальные",Istoriya (576p)
 http://s7.merlive.am/History2/index.m3u8
 #EXTINF:-1 tvg-id="Nano.ru@HD" tvg-logo="https://i.imgur.com/dYj3XDa.png" group-title="Документальные",Nano HD (1080p)
@@ -49,6 +45,8 @@ https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="TaynyGalaktiki.ru@SD" tvg-logo="https://i.imgur.com/fR3abSD.png" group-title="Документальные",Tayny Galaktiki (576p)
 http://s7.merlive.am/tainigalaktiki/index.m3u8
+#EXTINF:-1 tvg-id="TERRA.ru@SD" tvg-logo="https://i.imgur.com/ZxUjCpF.png" group-title="Документальные",TERRA (1080p)
+http://s7.merlive.am/TerraHD/index.m3u8
 #EXTINF:-1 tvg-id="TheExplorers.ru@SD" tvg-logo="https://www.oreol.tv/img/news/Logo_The_Explorers_Bleu.png" group-title="Документальные",The Explorers (1080p)
 https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
 #EXTINF:-1 tvg-id="Tochkarf.ru@HD" tvg-logo="https://cdn2.red-media.ru/wp-content/uploads/2016/08/TochkaRF-Logo.png" group-title="Документальные",Tochka.rf (1080p)
@@ -63,24 +61,6 @@ http://176.118.197.101/Bollywood_HD/index.m3u8
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru@SD" tvg-logo="https://i.imgur.com/b5e9qUA.png" group-title="Кино",Cinema (Russia) (1080p)
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoAction.ru@HD" tvg-logo="https://i.imgur.com/uuzuvD0.png" group-title="Кино",City Eden KinoAction [Not 24/7]
-https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoArt.ru@HD" tvg-logo="https://i.imgur.com/67CWCtz.png" group-title="Кино",City Eden KinoArt [Not 24/7]
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoAsia.ru@HD" tvg-logo="https://i.imgur.com/gaket4B.png" group-title="Кино",City Eden KinoAsia [Not 24/7]
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoDetektiv.ru@HD" tvg-logo="https://i.imgur.com/9rKHwBV.png" group-title="Кино",City Eden KinoDetektiv [Not 24/7]
-https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoDrama.ru@HD" tvg-logo="https://i.imgur.com/29ddffh.png" group-title="Кино",City Eden KinoDrama [Not 24/7]
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoFantastika.ru@HD" tvg-logo="https://i.imgur.com/I64FeIO.png" group-title="Кино",City Eden KinoFantastika [Not 24/7]
-https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoKlassika.ru@HD" tvg-logo="https://i.imgur.com/0qGCS1S.png" group-title="Кино",City Eden KinoKlassika [Not 24/7]
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoKomediya.ru@HD" tvg-logo="https://i.imgur.com/Aga2XVA.png" group-title="Кино",City Eden KinoKomediya [Not 24/7]
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoMistika.ru@HD" tvg-logo="https://i.imgur.com/s1Pid0K.png" group-title="Кино",City Eden KinoMistika [Not 24/7]
-https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Кино",Dom kino (1080p)
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dorama.ru@SD" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="Кино",Dorama (1080p)
@@ -115,6 +95,8 @@ http://s7.merlive.am/Kinosemya/index.m3u8
 http://s7.merlive.am/Kinoseria/index.m3u8
 #EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" tvg-logo="https://i.imgur.com/ZRaWqxj.png" group-title="Кино",Kinosvidanie (1080p)
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Kinouzhas.ru@SD" tvg-logo="https://i.imgur.com/mAcAAQF.png" group-title="Кино",Kinouzhas (1080p)
+http://s7.merlive.am/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-id="Muzhskoy.ru@HD" tvg-logo="https://i.imgur.com/xyztpBf.png" group-title="Кино",Muzhskoy HD (1080p)
 https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8
 #EXTINF:-1 tvg-id="NasheLubimoeKino.ru@SD" tvg-logo="https://i.imgur.com/iKPfM5K.png" group-title="Кино",Nashe Lubimoe Kino (576p)
@@ -127,6 +109,8 @@ https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 http://s7.merlive.am/SHOTTV/index.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Gorkogo.ru@SD" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/126/56.jpg" group-title="Кино",Smotrim 100% Gorkogo (1080p)
 https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
+#EXTINF:-1 tvg-id="StarCinema.ru@SD" tvg-logo="https://i.imgur.com/5sis895.png" group-title="Кино",Star Cinema (576p)
+http://s7.merlive.am/starsinema/index.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru@SD" tvg-logo="https://i.imgur.com/eGuGHnZ.png" group-title="Кино",Star Family (1080p)
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" group-title="Кино",START Air (1080p)
@@ -151,10 +135,10 @@ http://s7.merlive.am/Kinokomedia/index.m3u8
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 tvg-id="TvoyeTVYumor.ru@SD" tvg-logo="https://smotret.tv/images/tvoe-tv-yumor.webp" group-title="Комедия",Tvoye TV Yumor (1080p)
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenReceptyGurmana.ru@HD" tvg-logo="https://i.imgur.com/wR0pvRc.png" group-title="Кулинария",City Eden Recepty Gurmana [Not 24/7]
-https://cityeden.catcast.tv/content/47516/index.m3u8
 #EXTINF:-1 tvg-id="KulinarTV.ru@SD" tvg-logo="https://smotret.tv/images/kulinar-tv.webp" group-title="Кулинария",Kulinar TV (576p)
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" group-title="Кулинария",Telecafe (Russia) (1080p)
+https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ART.ru@SD" tvg-logo="https://optim.tildacdn.com/tild3134-3836-4338-a138-666666653363/-/format/webp/__.png.webp" group-title="Культура",ART (Russia) (576p)
 http://89.104.114.24:8080/art/index.m3u8
 #EXTINF:-1 tvg-id="Ministerstvoidey.ru@SD" tvg-logo="https://minidey.ru/media/images/minidey_banner.png" group-title="Культура",Ministerstvo idey (1080p)
@@ -169,8 +153,6 @@ https://stream.smotrim.ru/hls2/russia_k_dubl2/playlist_5.m3u8
 https://stream.smotrim.ru/hls2/russia_k_dubl3/playlist_5.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" group-title="Культура",Russia-K HD (1080p)
 https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenMedZdrav.ru@HD" tvg-logo="https://i.imgur.com/BM4E0Kr.png" group-title="Лайфстайл",City Eden MedZdrav [Not 24/7]
-https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1 tvg-id="Domashniy.ru@SD" tvg-logo="https://i.imgur.com/WaLwOyt.jpeg" group-title="Лайфстайл",Domashniy (576p)
 http://31.148.5.241/kanal_14/index.m3u8
 #EXTINF:-1 tvg-id="FashionTV.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" group-title="Лайфстайл",FashionTV (Russia) (1080p)
@@ -189,14 +171,6 @@ http://s7.merlive.am/Amedia1/index.m3u8
 http://178.134.1.158:8081/BRIDGE/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGERock.ru@SD" tvg-logo="https://i.imgur.com/MHuwct2.png" group-title="Музыка",BRIDGE Rock (576p)
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenBirmaPlay.ru@HD" tvg-logo="https://i.imgur.com/38Q5L5W.png" group-title="Музыка",City Eden Birma Play [Not 24/7]
-https://cityeden.catcast.tv/content/34364/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenClassicMusic.ru@HD" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="Музыка",City Eden Classic Music [Not 24/7]
-https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenPlay.ru@HD" tvg-logo="https://i.imgur.com/ozEqob9.png" group-title="Музыка",City Eden Play [Not 24/7]
-https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenSirtakiTV.ru@HD" tvg-logo="https://i.imgur.com/V3MTfyc.png" group-title="Музыка",City Eden Sirtaki TV [Not 24/7]
-https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 tvg-id="DanceHits80.ru@SD" tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="Музыка",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by@SD" tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="Музыка",First Music Channel (1080p)
@@ -273,8 +247,6 @@ https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 http://s7.merlive.am/ktoestkto/index.m3u8
 #EXTINF:-1 tvg-id="360.ru@SD" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Общие",360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
-#EXTINF:-1 tvg-id="555.ru@SD" tvg-logo="https://i.imgur.com/JQZkxeA.png" group-title="Общие",555 (720p)
-http://trk555.tv:8888/live
 #EXTINF:-1 tvg-id="6TVGorlovka.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TV_6_HD_%E2%80%93_logo.png" group-title="Общие",6 TV Gorlovka (720p) [Geo-blocked]
 http://91.214.48.158:4022/udp/224.2.2.4:10000
 #EXTINF:-1 tvg-id="86.ru@SD" tvg-logo="https://i.imgur.com/0dRS4Cb.png" group-title="Общие",86 (1080p) [Not 24/7]
@@ -289,14 +261,10 @@ https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
 #EXTINF:-1 tvg-id="Channel12.ru@SD" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="Общие",Channel 12 (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel4.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Channel4_logo.jpg" group-title="Общие",Channel 4 (Russia) (1080p)
-https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/960px-5-tv_logo_%282023%29.svg.png" group-title="Общие",Channel 5 (Russia) (576p)
 http://31.148.5.241/kanal_5/index.m3u8
 #EXTINF:-1 tvg-id="Channel16.ru@SD" tvg-logo="https://i.imgur.com/7tNDKHe.png" group-title="Общие",Channel-16 (406p) [Not 24/7]
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 tvg-id="CityEdenTV.ru@HD" tvg-logo="https://i.imgur.com/X9kACKi.png" group-title="Общие",City Eden TV [Not 24/7]
-https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-id="Enisey.ru@SD" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="Общие",Enisey (576p)
 http://tshift-1.telecoma.tv/enisei/index.m3u8
 #EXTINF:-1 tvg-id="Eurasia.ru@SD" tvg-logo="https://i.imgur.com/4JUHIVS.png" group-title="Общие",Eurasia (720p)
@@ -309,8 +277,6 @@ http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 #EXTINF:-1 tvg-id="Istoki.ru@SD" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png" group-title="Общие",Istoki (1080p)
 https://istoki.tv/live/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="KongressTV.ru@SD" tvg-logo="https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg" group-title="Общие",Kongress TV (1080p)
-https://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="KTOKUDA.ru@SD" tvg-logo="https://ntvplus.tv/files/image/68/79/06/9wn.png" group-title="Общие",KTOKUDA (576p)
 http://s7.merlive.am/ktokuda/index.m3u8
 #EXTINF:-1 tvg-id="Kuban24.ru@SD" tvg-logo="https://i.imgur.com/atzrXcz.png" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="Общие",Kuban 24 SD [Geo-blocked]
@@ -465,12 +431,12 @@ http://31.148.5.241/kanal_13/index.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:-1 tvg-id="Balabol.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="Сериалы",Balabol (1080p)
 https://cdn-dvr.ntv.ru/Balabol/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenTeleNovella.ru@HD" tvg-logo="https://i.imgur.com/mT5liTh.png" group-title="Сериалы",City Eden TeleNovella [Not 24/7]
-https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="Сериалы",Mir Seriala (576p)
 http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 tvg-id="Nevskiy.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg" group-title="Сериалы",Nevskiy (1080p)
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
+#EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="Сериалы",NTV Series (576p)
+http://s7.merlive.am/NTVSerial/index.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru@SD" tvg-logo="https://i.imgur.com/FfKBvz5.png" group-title="Сериалы",NTV-Hit (576p)
 http://178.134.1.158:8081/ntvhit/index.m3u8
 #EXTINF:-1 tvg-id="Perviyotdel.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/perv_otdel_llive.jpg" group-title="Сериалы",Perviy otdel (1080p)
@@ -545,6 +511,8 @@ https://shift03.isp.bg/RTVi/index.m3u8
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="MirBelogorya.ru@SD" tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" group-title="Без категории",Mir Belogorya (720p) [Geo-blocked]
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-id="NTVLaw.ru@SD" tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="Без категории",NTV Law (576p)
+http://s7.merlive.am/ntvpravo/index.m3u8
 #EXTINF:-1 tvg-id="NTVSledstviyeveli.ru@SD" tvg-logo="https://image.tmdb.org/t/p/original/qGCnptpQ9slUAoZ7e5y1Dk4TtjJ.png" group-title="Без категории",NTV Sledstviye veli (1080p) [Geo-blocked]
 https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
 #EXTINF:-1 tvg-id="Oplot2.ru@SD" tvg-logo="https://nettv.live/uploads/allimg/21/1-210123195A80-L.jpg" group-title="Без категории",Oplot 2 (720p) [Geo-blocked]

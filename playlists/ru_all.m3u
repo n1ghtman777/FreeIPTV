@@ -98,7 +98,7 @@ https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="TaynyGalaktiki.ru@SD" tvg-logo="https://i.imgur.com/fR3abSD.png" group-title="Документальные",Tayny Galaktiki (576p)
 http://s7.merlive.am/tainigalaktiki/index.m3u8
 #EXTINF:-1 tvg-id="TERRA.ru@SD" tvg-logo="https://i.imgur.com/ZxUjCpF.png" group-title="Документальные",TERRA (1080p)
-http://s1.merlive.am/TerraHD/index.m3u8
+http://s7.merlive.am/TerraHD/index.m3u8
 #EXTINF:-1 tvg-id="TheExplorers.ru@SD" tvg-logo="https://www.oreol.tv/img/news/Logo_The_Explorers_Bleu.png" group-title="Документальные",The Explorers (1080p)
 https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
 #EXTINF:-1 tvg-id="Tochkarf.ru@HD" tvg-logo="https://cdn2.red-media.ru/wp-content/uploads/2016/08/TochkaRF-Logo.png" group-title="Документальные",Tochka.rf (1080p)
@@ -204,7 +204,7 @@ http://s7.merlive.am/Kinoseria/index.m3u8
 #EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" tvg-logo="https://i.imgur.com/ZRaWqxj.png" group-title="Кино",Kinosvidanie (1080p)
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinouzhas.ru@SD" tvg-logo="https://i.imgur.com/mAcAAQF.png" group-title="Кино",Kinouzhas (1080p)
-http://s1.merlive.am/Kinoujas/index.m3u8
+http://s7.merlive.am/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" tvg-logo="https://i.imgur.com/95Y8jb6.png" group-title="Кино",Mosfilm Gold Collection (576p)
 http://31.222.235.15/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="Muzhskoekino.ru@SD" tvg-logo="https://i.imgur.com/8RN3tQC.png" group-title="Кино",Muzhskoe kino (576p)
@@ -244,7 +244,7 @@ http://s7.merlive.am/SHOTTV/index.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Gorkogo.ru@SD" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/126/56.jpg" group-title="Кино",Smotrim 100% Gorkogo (1080p)
 https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
 #EXTINF:-1 tvg-id="StarCinema.ru@SD" tvg-logo="https://i.imgur.com/5sis895.png" group-title="Кино",Star Cinema (576p)
-http://s1.merlive.am/starsinema/index.m3u8
+http://s7.merlive.am/starsinema/index.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru@SD" tvg-logo="https://i.imgur.com/eGuGHnZ.png" group-title="Кино",Star Family (1080p)
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" group-title="Кино",START Air (1080p)
@@ -310,7 +310,7 @@ http://stream.mcquack.net/179/index.m3u8
 #EXTINF:-1 tvg-id="KulinarTV.ru@SD" tvg-logo="https://smotret.tv/images/kulinar-tv.webp" group-title="Кулинария",Kulinar TV (576p)
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" group-title="Кулинария",Telecafe (Russia) (1080p)
-http://s1.merlive.am/telekafe/index.m3u8
+https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ART.ru@SD" tvg-logo="https://optim.tildacdn.com/tild3134-3836-4338-a138-666666653363/-/format/webp/__.png.webp" group-title="Культура",ART (Russia) (576p)
 http://89.104.114.24:8080/art/index.m3u8
 #EXTINF:-1 tvg-id="Ministerstvoidey.ru@SD" tvg-logo="https://minidey.ru/media/images/minidey_banner.png" group-title="Культура",Ministerstvo idey (1080p)
@@ -730,7 +730,7 @@ http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 tvg-id="Vkus.ru@SD" tvg-logo="https://www.cableman.ru/sites/default/files/logo%20%287%29%20%281%29.png" group-title="Путешествия",Vkus (576p)
 http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 tvg-id="black.ru@SD" tvg-logo="https://i.imgur.com/Q4A6ci4.png" group-title="Развлекательные",.black (576p)
-http://s1.merlive.am/black/index.m3u8
+http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1 tvg-id="red.ru@SD" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Развлекательные",.red (576p)
 http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 tvg-id="red.ru@HD" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Развлекательные",.red HD (1080p)
@@ -822,7 +822,7 @@ http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 tvg-id="Nevskiy.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg" group-title="Сериалы",Nevskiy (1080p)
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 #EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="Сериалы",NTV Series (576p)
-http://stream.mcquack.net/301/index.m3u8
+http://s7.merlive.am/NTVSerial/index.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru@SD" tvg-logo="https://i.imgur.com/FfKBvz5.png" group-title="Сериалы",NTV-Hit (576p)
 http://178.134.1.158:8081/ntvhit/index.m3u8
 #EXTINF:-1 tvg-id="Perviyotdel.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/perv_otdel_llive.jpg" group-title="Сериалы",Perviy otdel (1080p)
@@ -868,7 +868,7 @@ http://stream.mcquack.net/112/index.m3u8
 #EXTINF:-1 tvg-id="MatchIgra.ru@SD" tvg-logo="https://i.imgur.com/5XWpF19.png" group-title="Спорт",Match! Igra (720p)
 http://31.148.48.15/Match_Igra_HD/index.m3u8
 #EXTINF:-1 tvg-id="MatchPlaneta.ru@SD" tvg-logo="https://i.imgur.com/vhyMb9D.png" group-title="Спорт",Match! Planeta (576p)
-http://s1.merlive.am/matchplaneta/index.m3u8
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="MatchPremier.ru@SD" tvg-logo="https://i.imgur.com/GQPyHYK.png" group-title="Спорт",Match! Premier (576p)
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 tvg-id="MatchStrana.ru@SD" tvg-logo="https://i.imgur.com/X02s2UE.png" group-title="Спорт",Match! Strana (720p)
@@ -948,7 +948,7 @@ http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-id="NST.ru@SD" tvg-logo="https://i.imgur.com/uv2yxa5.png" group-title="Без категории",NST (576p)
 http://stream.mcquack.net/207/index.m3u8
 #EXTINF:-1 tvg-id="NTVLaw.ru@SD" tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="Без категории",NTV Law (576p)
-https://cdn.ntv.ru/th_pravo/playlist.m3u8
+http://s7.merlive.am/ntvpravo/index.m3u8
 #EXTINF:-1 tvg-id="NTVSledstviyeveli.ru@SD" tvg-logo="https://image.tmdb.org/t/p/original/qGCnptpQ9slUAoZ7e5y1Dk4TtjJ.png" group-title="Без категории",NTV Sledstviye veli (1080p) [Geo-blocked]
 https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
 #EXTINF:-1 tvg-id="Oplot2.ru@SD" tvg-logo="https://nettv.live/uploads/allimg/21/1-210123195A80-L.jpg" group-title="Без категории",Oplot 2 (720p) [Geo-blocked]
@@ -1054,7 +1054,7 @@ https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zhivayapriroda.ru@SD" tvg-logo="https://i.imgur.com/9lHQPdN.png" group-title="Без категории",Zhivaya priroda (1080p)
 http://stream.mcquack.net/83/index.m3u8
 #EXTINF:-1 tvg-id="Zhivayapriroda.ru@HD" tvg-logo="https://i.imgur.com/9lHQPdN.png" group-title="Без категории",Zhivaya priroda HD (1080p)
-http://s1.merlive.am/Jivaiapriroda/index.m3u8
+http://stream.mcquack.net/225/index.m3u8
 #EXTINF:-1 tvg-id="ZooTV.ru@SD" tvg-logo="https://i.imgur.com/p7WzqGS.png" group-title="Без категории",Zoo TV (576p)
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 tvg-id="Zoopark.ru@SD" tvg-logo="https://tv-stream.ru/uploads/Zoopark_300h300_zelenyj_vert_0f85755619.svg" group-title="Без категории",Zoopark (576p)
